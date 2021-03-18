@@ -7,10 +7,10 @@ and open the template in the editor.
     Created on : 3 mars 2021, 16:21:09
     Author     : clement
 */
-
+p, h3 {color : grey}
 body { padding-top: 50px; }
 .cadreCV { padding-bottom: 15px; background: white; }
-.jumbotron { }
+.jumbotron { background-image: url(../image/cv/background-cv.jpg); }
 /****************************************
 * En-tête du CV
 ****************************************/
@@ -18,9 +18,8 @@ body { padding-top: 50px; }
 #cv-entete { margin-top: -45px; width: 100%;}
 #cv-photo { border-radius: 50%; overflow: hidden; padding: 5px;
  background: #eee; display: inline-block; }
-#cv-photo img {  border-radius: 50%; }
-#cv-intro h1 { margin: 0; padding: 0; font-size: 2.4em; font-weight: 700;
- letter-spacing: -1px;}
+#cv-photo img { border-radius: 50%; }
+#cv-intro h1 { margin: 0; padding: 0; font-size: 2.4em; font-weight: 700;  letter-spacing: -1px; text-decoration: underline; color:gray;}
 #cv-intro h1 span { color: rgb(226,0,26); }
 #cv-intro::after { background: url('images/ligne.png'); /* Dossier "images" est un sous-
  dossier de "css" (à créer) */
@@ -31,7 +30,7 @@ body { padding-top: 50px; }
 **************************/
 
 .rubrique { margin-bottom: 15px; }
-.rubrique h2 { color: rgb(226,0,26); }
+.rubrique h2 { color: rgb(44,177,238); }
 .rubrique h2::before{ margin-right: 5px; }
 .rubrique p{ font-size: 1.3em; line-height: 1.5em; }
 
@@ -42,11 +41,11 @@ body { padding-top: 50px; }
 #parcours { margin-top: 20px; position: relative; padding: 1em 0; list-style: none; }
 #parcours::before { width: 5px; height: 100%; position: absolute; left: 7.8px; top: 0;
  display: block; background: linear-gradient(to bottom, #ffffff 0%,
- #E2001A 7%, #E2001A, #ffffff 100%); content:""; }
+ #2cb1ee 7%, #2cb1ee, #ffffff 100%); content:""; }
 #parcours li { width: 100%; z-index: 2; position: relative; float: left; }
-#parcours .date .glyphicon-record::before { background: #FFFFFF; color: #555; }
+#parcours .date .glyphicon-record::before { background: #FFFFFF; color: grey; }
 #parcours .date { width: 75px; background-color: rgba(0, 0, 0, 0); font-size: 1.5em;
- font-weight: 700; display: inline-block; }
+ font-weight: 700; display: inline-block; color:gray;}
 #parcours .details { width: 325px; display: inline-block; background: #eee;
  position: relative; padding: 10px 10px 0 10px;
  border-bottom: 1px solid #ddd; margin: -4px -12px 20px 0; }
@@ -74,7 +73,7 @@ body { padding-top: 50px; }
 * Expériences professionnelles
 ******************************************/
 
-.experience { display:flex; margin-bottom: 15px; }
+.experience { display:flex; margin-bottom: 15px; color : grey}
 .experience .lieu { font-size: 1.1em; font-weight: bold; }
 .experience .date { font-size: 1em; opacity: 0.7; }
 .experience .profession { font-size: 1.45em; font-weight: bold; margin-top: -6px; }
@@ -90,7 +89,7 @@ body { padding-top: 50px; }
 .contact-icon { filter: grayscale(1); -webkit-filter: grayscale(1);
  -moz-filter: grayscale(1); -ms-filter: grayscale(1);
  -o-filter: grayscale(1); height: 32px; width: 32px; margin: 2px 0; }
-.meContacter a, .meContacter a:hover { text-decoration: none; color: black; }
+.meContacter a, .meContacter a:hover { text-decoration: none; color: grey; }
 .meContacter a:hover>img { filter: grayscale(0); -webkit-filter: grayscale(0);
  -moz-filter: grayscale(0); -ms-filter: grayscale(0);
  -o-filter: grayscale(0); }
@@ -99,7 +98,7 @@ body { padding-top: 50px; }
 * Langues
 ******************************************/
 
-#langues .container { display: flex; flex-direction: row; justify-content: space-between; }
+#langues .container { display: flex; flex-direction: row; justify-content: space-between; color : grey;}
 #langues .langue, #langues .niveau{ font-size: 1.3em; }
 #langues .langue { padding-top: 3px; }
 
@@ -108,7 +107,7 @@ body { padding-top: 50px; }
 ******************************************/
 
 #competences .container {
- display: flex; flex-direction: row; justify-content: space-between; }
+ display: flex; flex-direction: row; justify-content: space-between; color:grey }
 #competences .container .libelle { font-size: 1.3em; }
 #competences .container .classement {
  background: scroll transparent url(../image/Red-Rating-Stars.png) no-repeat;
