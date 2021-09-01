@@ -7,6 +7,10 @@ and open the template in the editor.
     Created on : 6 avr. 2021, 18:50:49
     Author     : cleme
 */
-*{color : grey}
 #jumbotron { background-image: url(../image/cv/background-cv.jpg); }
-.cadreCV { padding-bottom: 0; background: white; }
+.cadreCV { padding-bottom: 0; background: white; border-radius: 25px; }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
