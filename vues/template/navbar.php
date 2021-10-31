@@ -41,7 +41,7 @@
                             </ul>
                         </li>
                         <li class="nav-item <?php if($page===3) { ?>active <?php } ?>">
-                            <a href="../../Pages/C_veille.php" class="nav-link">
+                            <a href="../../pages/C_veille.php" class="nav-link">
                                 <span class ="fa fa-gears"></span> Veille technologique
                             </a>
                         </li>
