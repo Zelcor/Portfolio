@@ -4,8 +4,7 @@
                 <div class="container">
                     <h1 class="jumbotron-heading">Réalisation de ce portfolio</h1>
                     <p class="lead text-muted">
-                        Cette activité m'a permis de développer mes connaissances en développement web, notamment à l'utilisation de bootstrap. Ce fut très constructif, mais j'y travaille toujours ! J'ai par exemple récement acheté le nom de domaine clementloze.fr chez ovh afin
-                        d'y héberger mon site prochainement !
+                        Cette activité m'a permis de développer mes connaissances en développement web, notamment à l'utilisation de bootstrap. Ce fut très constructif, mais j'y travaille toujours !
                     </p>
                 </div>
                 <div class="container">
