@@ -13,7 +13,7 @@
                         <!-- Partie gauche -->
                         <div class="rubrique clearfix">
                             <h2><span class="fa fa-comment"></span> En quelques mots...</h2>
-                            <p>Étudiant de 19 ans au BTS SIO option SLAM du lycée Bonaparte à Toulon. Je suis désireux de constamment approfondir mes connaissances. J'ai la ferme volonté à la suite de mon stage à la DIRISI d'avoir une expérience professionnelle hors d'un contexte militaire afin de voir comment se passe le développement en entreprise.
+                            <p>Étudiant de 19 ans au BTS SIO option SLAM du lycée Bonaparte à Toulon. Je suis désireux de constamment approfondir mes connaissances.
                             </p>
                         </div>
                         <div class="rubrique clearfix">
