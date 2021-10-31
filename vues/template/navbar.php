@@ -26,7 +26,7 @@
                                  </li>
                                 <li role="presentation" class="dropdown-divider"></li>
                                 <li role="presentation" class="dropdown-header dropdown-item"> En classe </li>
-                                 <li role="presentation" class="dropdown-item">
+                                 <li role="presentation" class="dropdown-item disabled">
                                     <a role="menuitem" href="../../pages/C_seeulater.php"> Projet Nolark </a>
                                  </li>
                                 <li role="presentation" class="dropdown-divider"></li>
