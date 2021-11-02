@@ -90,7 +90,7 @@
                                 </li>
                             </ul>
                         <li class ="nav-item <?php if($page===5) { ?>active <?php } ?>">
-                            <a href="../../pages/C_seeulater.php" class="nav-link disabled"><span class="fa fa-envelope"></span>
+                            <a href="../../pages/C_contact.php" class="nav-link"><span class="fa fa-envelope"></span>
                                 Me contacter
                             </a>
                         </li> 

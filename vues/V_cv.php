@@ -66,36 +66,6 @@
                     </div>
                     <div class="col-xs-12 col-sm-5">
                         <!-- Partie droite -->
-                        <div class="rubrique clearfix">
-                            <h2><span class="fa fa-user"></span> Me contacter</h2>
-                            <div class="meContacter">
-                                <div class="details float-left">
-                                    <a href="mailto:clementloze@hotmail.fr?subject=Contact depuis le CV en ligne"
-                                       title="Mail de ClémentLOZE">
-                                        <img class="contact-icon" src="../image/cv/mail-dreamstale47.png"
-                                             alt="Icone de mail"> e-mail professionnel
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="meContacter">
-                                <div class="details float-left">
-                                    <a href="https://www.linkedin.com/in/cl%C3%A9ment-loze-142385204/"
-                                       title="Lien vers le profil LinkedIn de Clément LOZE">
-                                        <img class="contact-icon" src="../image/cv/linkedin-dreamstale45.png"
-                                             alt="Icone de LinkedIn"> LinkedIn
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="meContacter">
-                                <div class="details float-left">
-                                    <a href="https://github.com/clementloze"
-                                       title="Lien vers le profil GitHub de ClémentLOZE">
-                                        <img class="contact-icon" src="../image/cv/github2-dreamstale35.png"
-                                             alt="Icone de GitHub"> GitHub
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
                         <div id="langues" class="rubrique clearfix">
                             <h2><span class="fa fa-flag"></span> Langue</h2>
                             <div class="container">
@@ -181,6 +151,10 @@
                                     <h3><span class ="fa fa-book"></span> Lecture </h3>
                                 </div>
                             </div>
+                        </div>
+                        <div class="rubrique clearfix">
+                            <h2><span class="fa fa-user"></span> Me contacter</h2>
+                            <a role="button" class="btn btn-primary mb-2 p-2" href="../../pages/C_contact.php">En savoir plus » </a>
                         </div>
                     </div>
                 </div>
