@@ -32,8 +32,8 @@
                                 <li role="presentation" class="dropdown-divider"></li>
                                 <li role="presentation" class="dropdown-header dropdown-item">
                                     Stages</li>
-                                <li role="presentation" class="dropdown-item disabled">
-                                    <a role="menuitem" href="../../pages/C_seeulater.php">Stage de 1<sup>ère</sup> année</a>
+                                <li role="presentation" class="dropdown-item">
+                                    <a role="menuitem" href="../../pages/C_stage_1ere_annee.php">Stage de 1<sup>ère</sup> année</a>
                                 </li>
                                 <li role="presentation" class="dropdown-item disabled">
                                     <a role="menuitem" href="../../pages/C_seeulater.php">Stage de 2<sup>ème</sup> année</a>

@@ -11,6 +11,29 @@
                     <div class="card-body">
                         <div class="mt-5">
                             <div class="timeline">
+                                <div class="timeline-wrapper timeline-wrapper-ethique">
+                                    <div class="timeline-badge"></div>
+                                    <div class="timeline-panel">
+                                        <div class="timeline-heading">
+                                            <h6 class="timeline-title"> Protection droits numériques des enfants</h6>
+                                        </div>
+                                        <div class="timeline-body">
+                                            <p>Les mineurs étant de plus en plus tôt connectés en ligne (d’après une étude de
+                                                Génération numérique sur les pratiques des 11-18 ans datant de mars 2021 63% des
+                                                moins de 13 ans ont un compte sur au moins 1 réseau social). De ce fait, en tant que
+                                                développeur, nous devons en priorité prendre en compte le point de vue et les droits de
+                                                l’enfants dans la conception des services et si possible protéger les enfants contre
+                                                l'exploitation commerciale de leurs données. La CNIL encourage à accompagner la mise
+                                                en œuvre opérationnelle de cette résolution.
+                                            </p>
+                                        </div>
+                                        <div class="timeline-footer d-flex align-items-center flex-wrap">
+                                            <i class="mdi mdi-heart-outline text-muted mr-1"></i>
+                                            <span><a href="https://www.cnil.fr/fr/la-protection-des-droits-numeriques-des-enfants-une-priorite-mondiale">Source</a></span>
+                                            <span class="ml-md-auto font-weight-bold">Octobre 2021</span>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div class="timeline-wrapper timeline-inverted timeline-wrapper-cyber">
                                     <div class="timeline-badge"></div>
                                     <div class="timeline-panel">
@@ -62,9 +85,9 @@
                     </div>
                     <!-- Fin timeline -->
                 <h1 class="jumbotron-heading">Comment se passe ma veille ?</h1>
-                    <p class="lead text-muted">
-                        Pour l'instant je fais des recherches sur des sujets qui m'intéressent ou bien j'écoute des recommandations.
-                    </p>
+                <p class="lead text-muted"> Pour l'instant j'utilise netvibes.com et le bouche à oreille, de plus j’utilise google alert afin d’avoir des informations sur les données concernant mon nom et prénom. </p>
+                <h1 class="jumbotron-heading">Synthèse sur ma veille :</h1>
+                <a role="button" class="btn btn-primary mb-2 p-2" href="../image/documents/veille%20technologique.pdf">Synthèse veille</a>
             </section>
             </div>
         </div>
