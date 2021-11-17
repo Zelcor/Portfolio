@@ -1,6 +1,6 @@
         <div class="jumbotron" id="jumbotron">
             <div class="cadreCV">
-                <h1>- Présentation :</h1>
+                <h1> &nbsp Présentation :</h1>
                 <div class="d-flex flex-row">
                     <img src="image/clementloze.jpg" class="mr-3 rounded align-self-start h-50 w-auto">
                     <div class = "d-flex align-items-start flex-column">
