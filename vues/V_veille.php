@@ -86,6 +86,16 @@
                     <!-- Fin timeline -->
                 <h1 class="jumbotron-heading">Comment se passe ma veille ?</h1>
                 <p class="lead text-muted"> Pour l'instant j'utilise netvibes.com et le bouche à oreille, de plus j’utilise google alert afin d’avoir des informations sur les données concernant mon nom et prénom. </p>
+                <div class="row">
+                    <div class="col-4 mx-auto text-center">
+                        <div class="card mb-4 shadow-sm">
+                            <img class="card-img-top" src="../image/netvibes_dashboard.jpg" alt="ma page netvibes">
+                            <div class="card-body">
+                                <p class="card-text">Ma page netvibes</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <h1 class="jumbotron-heading">Synthèse sur ma veille :</h1>
                 <a role="button" class="btn btn-primary mb-2 p-2" href="../image/documents/veille%20technologique.pdf">Synthèse veille</a>
             </section>

@@ -3,6 +3,9 @@
         <section class="jumbotron text-center">
             <div class="container">
                 <h1 class="jumbotron-heading">Stage de 1ère année</h1>
+                <img class="image-responsive" src="../image/DIRISI.png" alt="logo dirisi">
+                <p class="lead text-muted"> J'ai effectué mon stage de première année au pole DevOps du fort Lamalgue à Toulon. </br>
+                    Les technologies utilisées furent : Angular, node.js, PostgreSQL </p>
                 <h2 class="jumbotron-heading">Synthèse de stage :</h2>
                 <p class="lead text-muted">Vous pouvez retrouve si-après le lien menant vers ma synthèse de stage</p>
                 <a role="button" class="btn btn-primary mb-2 p-2" href="../image/documents/Synthèse%20de%20stage.pdf">Ma synthèse de stage</a>
