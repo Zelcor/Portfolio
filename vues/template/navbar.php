@@ -21,9 +21,12 @@
                             </a>
                             <ul class="dropdown-menu" role="menu">
                                 <li role="presentation" class="dropdown-header dropdown-item"> En autonomie </li>
-                                 <li role="presentation" class="dropdown-item">
+                                <li role="presentation" class="dropdown-item">
                                     <a role="menuitem" href="../../pages/C_portfolio.php">Portfolio</a>
-                                 </li>
+                                </li>
+                                <li role="presentation" class="dropdown-item">
+                                    <a role="menuitem" href="../../pages/C_portfolio-php.php">Portfolio en PHP</a>
+                                </li>
                                 <li role="presentation" class="dropdown-divider"></li>
                                 <li role="presentation" class="dropdown-header dropdown-item"> En classe </li>
                                  <li role="presentation" class="dropdown-item">
