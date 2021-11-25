@@ -4,7 +4,7 @@
                 <div class="container">
                     <h1 class="jumbotron-heading">Réalisation de ce portfolio</h1>
                     <p class="lead text-muted">
-                        Cette activité m'a permis de développer mes connaissances en développement web, notamment à l'utilisation de bootstrap. Ce fut très constructif, mais j'y travaille toujours !
+                        Cette activité m'a permis de développer mes connaissances en développement web, notamment à l'utilisation de bootstrap. Ce fut très constructif et maintenant je suis passé en php !
                     </p>
                 </div>
                 <div class="container">
