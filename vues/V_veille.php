@@ -12,6 +12,26 @@
                     <div class="card-body">
                         <div class="mt-5">
                             <div class="timeline">
+                                <div class="timeline-wrapper timeline-inverted timeline-wrapper-dev">
+                                    <div class="timeline-badge"></div>
+                                    <div class="timeline-panel">
+                                        <div class="timeline-heading">
+                                            <h6 class="timeline-title">Fix possibilitée de restreindre l'accès au code source sous Chromium</h6>
+                                        </div>
+                                        <div class="timeline-body">
+                                            <p> La fonctionnalité permettant a des administrateurs de bloquer la modification du code source d'une page web au travers d'un
+                                                navigateur basé sur Chromium va être renforcée. En effet il était possible pour des étudiants de tricher.
+                                                Les administrateurs pourront choisir une liste de site où la modification du code source est impossible.
+                                                La mesure vise à apporter des réponse aux plaintes des fournisseurs de contenus éducatifs qui s'appuient sur les navigateurs.</p>
+                                        </div>
+                                        <div class="timeline-footer d-flex align-items-center flex-wrap">
+                                            <i class="mdi mdi-heart-outline text-muted mr-1"></i>
+                                            <span><a href="https://web.developpez.com/actu/328821/Developpement-web-les-admins-pourront-bientot-restreindre-l-acces-au-code-source-d-une-page-web-via-un-navigateur-base-sur-Chromium-car-la-fonctionnalite-permet-a-des-etudiants-de-tricher/">Source</a></span>
+                                            <span class="ml-md-auto font-weight-bold">Novembre 2021</span>
+                                        </div>
+                                    </div>
+                                </div>
+
                                 <div class="timeline-wrapper timeline-wrapper-ethique">
                                     <div class="timeline-badge"></div>
                                     <div class="timeline-panel">
