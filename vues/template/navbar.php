@@ -20,18 +20,22 @@
                                 <span class = "fa fa-list-alt"></span> Réalisations <span class="caret"></span>
                             </a>
                             <ul class="dropdown-menu" role="menu">
-                                <li role="presentation" class="dropdown-header dropdown-item"> En autonomie </li>
-                                <li role="presentation" class="dropdown-item">
-                                    <a role="menuitem" href="../../pages/C_portfolio.php">Portfolio</a>
-                                </li>
-                                <li role="presentation" class="dropdown-item">
-                                    <a role="menuitem" href="../../pages/C_portfolio-php.php">Portfolio en PHP</a>
-                                </li>
-                                <li role="presentation" class="dropdown-divider"></li>
                                 <li role="presentation" class="dropdown-header dropdown-item"> En classe </li>
-                                 <li role="presentation" class="dropdown-item">
-                                    <a role="menuitem" href="../../pages/C_nolark.php"> Projet Nolark </a>
-                                 </li>
+                                <li role="presentation" class="dropdown-item">
+                                    <a role="menuitem" href="../../pages/C_nolark.php"> TP Projet Nolark </a>
+                                </li>
+                                <li role="presentation" class="dropdown-item">
+                                    <a role="menuitem" href="../../pages/C_portfolio.php"> Portfolio </a>
+                                </li>
+                                <li role="presentation" class="dropdown-item disabled">
+                                    <a role="menuitem" href="../../pages/C_seeulater.php"> TP Chocolate'in </a>
+                                </li>
+                                <li role="presentation" class="dropdown-item disabled">
+                                    <a role="menuitem" href="../../pages/C_seeulater.php"> TP MonPetitMVC </a>
+                                </li>
+                                <li role="presentation" class="dropdown-item disabled">
+                                    <a role="menuitem" href="../../pages/C_seeulater.php"> Projet GSB-Appli_MVC </a>
+                                </li>
                                 <li role="presentation" class="dropdown-divider"></li>
                                 <li role="presentation" class="dropdown-header dropdown-item">
                                     Stages</li>
@@ -40,6 +44,11 @@
                                 </li>
                                 <li role="presentation" class="dropdown-item disabled">
                                     <a role="menuitem" href="../../pages/C_seeulater.php">Stage de 2<sup>ème</sup> année</a>
+                                </li>
+                                <li role="presentation" class="dropdown-divider"></li>
+                                <li role="presentation" class="dropdown-header dropdown-item"> En autonomie </li>
+                                <li role="presentation" class="dropdown-item">
+                                    <a role="menuitem" href="../../pages/C_portfolio-php.php">Portfolio en PHP</a>
                                 </li>
                             </ul>
                         </li>
