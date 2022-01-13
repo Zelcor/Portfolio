@@ -1,3 +1,3 @@
 User-agent:*
 Allow : /
-Sitemap: https://www.clementloze.fr/sitemap.xml
+Sitemap: http://clementloze.fr/sitemap.xml
