@@ -34,7 +34,7 @@
                 </div>
             </div>
             <hr>
-            <p class="text-center" id="copyright">© Clément LOZE 2021</p>
+            <p class="text-center" id="copyright">© Clément LOZE 2022</p>
         </div>
     </footer>
 </html>
