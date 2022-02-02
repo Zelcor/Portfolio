@@ -119,11 +119,19 @@
 }
 
 .timeline-wrapper-cyber .timeline-panel:before {
-    background: #334BFE;
+    background: #ff4949;
 }
 
 .timeline-wrapper-cyber .timeline-badge {
-    background: #334BFE;
+    background: #ff4949;
+}
+
+.timeline-wrapper-techno .timeline-panel:before {
+    background: #0006ff;
+}
+
+.timeline-wrapper-techno .timeline-badge {
+    background: #0006ff;
 }
 
 .timeline-wrapper-dev .timeline-panel:before {

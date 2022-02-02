@@ -12,6 +12,47 @@
                     <div class="card-body">
                         <div class="mt-5">
                             <div class="timeline">
+                                <div class="timeline-wrapper timeline-inverted timeline-wrapper-techno">
+                                    <div class="timeline-badge"></div>
+                                    <div class="timeline-panel">
+                                        <div class="timeline-heading">
+                                            <h6 class="timeline-title">Le chargement filaire déjà obsolète ?</h6>
+                                        </div>
+                                        <div class="timeline-body">
+                                            <p> Quelques semaines après la proposition de la commision européenne que l'USB-C devienne le port commun. 
+                                                Le Français Archos associé a l'Américain Ossia Inc. 
+                                                La technnologie de rechargement par voie hertziene (Cota Real Wireless Power) devrait permettre cette révolution. 
+                                                De plus divers appareils pourrons être rechargés en même temps.</p>
+                                        </div>
+                                        <div class="timeline-footer d-flex align-items-center flex-wrap">
+                                            <i class="mdi mdi-heart-outline text-muted mr-1"></i>
+                                            <span><a href="https://www.techniques-ingenieur.fr/actualite/articles/la-fin-des-cables-pour-recharger-ses-appareils%E2%80%89-105381/">Source</a></span>
+                                            <span class="ml-md-auto font-weight-bold">Décembre 2021</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="timeline-wrapper timeline-wrapper-cyber">
+                                    <div class="timeline-badge"></div>
+                                    <div class="timeline-panel">
+                                        <div class="timeline-heading">
+                                            <h6 class="timeline-title">Nouvel indicateur de sécurité des sites : les CyberScore !</h6>
+                                        </div>
+                                        <div class="timeline-body">
+                                            <p> 
+                                                Une loi souhaitant l'instauration d'une certification des plateformes numériques destinées au grand public pourrait entrer en vigueur en 2023.
+                                                Cette loi serait un équivalent du nutriscore (mais pour les sites web cette fois ci !). Une amande allant jusqu'a 375 euros est prévue.
+                                                <br> De plus elle ne concerne pour l'instant que les grandes entreprises (Twitter, Facebook, ...).
+                                            </p>
+                                        </div>
+                                        <div class="timeline-footer d-flex align-items-center flex-wrap">
+                                            <i class="mdi mdi-heart-outline text-muted mr-1"></i>
+                                            <span><a href="https://www.techniques-ingenieur.fr/actualite/articles/cyberscore-des-codes-couleurs-pour-connaitre-le-niveau-de-securite-des-sites-105670/">Source</a></span>
+                                            <span class="ml-md-auto font-weight-bold">Décembre 2021</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                
                                 <div class="timeline-wrapper timeline-inverted timeline-wrapper-dev">
                                     <div class="timeline-badge"></div>
                                     <div class="timeline-panel">
