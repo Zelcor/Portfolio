@@ -7,7 +7,8 @@ and open the template in the editor.
     Created on : 6 avr. 2021, 18:50:49
     Author     : cleme
 */
-#jumbotron { background-image: url(../image/cv/background-cv.jpg); }
+html, body{ height: 100%; margin: 0; padding: 0; align-items: stretch}
+#jumbotron { background: rgb(245,255,143); background: radial-gradient(circle, rgba(245,255,143,1) 0%, rgba(0,212,255,1) 29%, rgba(7,0,128,1) 100%); display : flex; width: 100%; padding-top: 6rem; padding-bottom: 4rem; padding-left: 2rem; padding-right: 2rem;}
 .cadreCV { padding-bottom: 0; background: white; border-radius: 25px; }
 .center {
     display: block;
@@ -29,3 +30,5 @@ and open the template in the editor.
 .meContacter a:hover>img { filter: grayscale(0); -webkit-filter: grayscale(0);
  -moz-filter: grayscale(0); -ms-filter: grayscale(0);
  -o-filter: grayscale(0); }
+footer { 	display : table-row; height: 100px;}
+body { 	display : table; width: 100%; }
