@@ -1,5 +1,6 @@
-    <div class="jumbotron" id="jumbotron">
-        <div class="row center">
+<div class="row align-items-center">
+    <div id="jumbotron">
+            <div class="row center middle">
             <section class="jumbotron text-center">
                 <div class="container">
                     <h1 class="jumbotron-heading"><u>Veille technologique</u></h1>

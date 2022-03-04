@@ -1,26 +1,26 @@
 <urlset>
-<url>
-  <loc>https://clementloze.fr/</loc>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://clementloze.fr/pages/C_cv.php</loc>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://clementloze.fr/pages/C_contact.php</loc>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://clementloze.fr/pages/C_veille.php</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://clementloze.fr/pages/C_portfolio.php</loc>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://clementloze.fr/index.php</loc>
-  <priority>0.80</priority>
-</url>
+  <url>
+    <loc>https://clementloze.fr/</loc>
+    <priority>1.00</priority>
+  </url>
+  <url>
+      <loc>https://clementloze.fr/index.php</loc>
+      <priority>0.10</priority>
+  </url>
+  <url>
+    <loc>https://clementloze.fr/pages/C_cv.php</loc>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://clementloze.fr/pages/C_contact.php</loc>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://clementloze.fr/pages/C_veille.php</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://clementloze.fr/pages/C_portfolio.php</loc>
+    <priority>0.60</priority>
+  </url>
 </urlset>

@@ -1,4 +1,4 @@
-        <nav class="navbar navbar-dark bg-dark fixed-top navbar-expand-md">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar">
                     <span class="sr-only">Navigation raccourcie</span>☰
                 </button>

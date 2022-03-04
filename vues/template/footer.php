@@ -1,5 +1,6 @@
-    </body>
-    <footer>
+</body>
+    <footer class="sticky-bottom">
+        <!--
         <div class="container">
             <div class="row">
                 <div class="col-lg-4">
@@ -33,8 +34,8 @@
                     </p>
                 </div>
             </div>
-            <hr>
+            <hr>-->
             <p class="text-center" id="copyright">© Clément LOZE 2022</p>
-        </div>
+       <!-- </div>-->
     </footer>
 </html>
