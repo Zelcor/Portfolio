@@ -28,7 +28,7 @@
     border-radius: 2px;
     padding: 20px;
     position: relative;
-
+    max-width: 523px;
     border-radius: 6px;
     box-shadow: 1px 2px 35px 0 rgba(1, 1, 1, 0.1);
     width: 35%;
@@ -62,7 +62,7 @@
     text-transform: uppercase;
 }
 
-.timeline .timeline-wrapper .timeline-panel .timeline-body p + p {
+.timeline .timeline-wrapper .timeline-panel .timeline-body p {
     margin-top: 5px;
 }
 

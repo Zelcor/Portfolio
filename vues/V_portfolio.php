@@ -1,6 +1,6 @@
-    <div class="jumbotron" id="jumbotron">
-        <div class="row center">
-            <section class="jumbotron text-center">
+    <div class="row center">
+        <div class="jumbotron" id="jumbotron">
+            <section class="jumbotron text-center center shadow">
                 <div class="container">
                     <h1 class="jumbotron-heading">Réalisation de ce portfolio</h1>
                     <p class="lead text-muted">
@@ -10,31 +10,31 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img class="card-img-top" src="../image/HTML5_CSS.jpg" alt="logo html/css">
+                            <div class="card bg-light mb-4 shadow">
+                                <p class="card-header">Construction du site avec les langages html et css</p>
                                 <div class="card-body">
-                                    <p class="card-text">Construction du site avec les langages html et css</p>
+                                    <img class="card-img-top" src="../image/HTML5_CSS.jpg" alt="logo html/css">
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img class="card-img-top" src="../image/bootstrap.png" alt="logo bootstrap">
+                            <div class="ccard bg-light mb-4 shadow">
+                                <p class="card-header">Utilisation de bootstrap pour l'interfaçage</p>
                                 <div class="card-body">
-                                    <p class="card-text">Utilisation de bootstrap pour l'interfaçage</p>
+                                    <img class="card-img-top" src="../image/bootstrap.png" alt="logo bootstrap">
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img class="card-img-top" src="../image/ovhcloud.png" alt="ovh">
+                            <div class="card bg-light mb-4 shadow">
+                                <p class="card-header">Hébergement chez OVHcloud</p>
                                 <div class="card-body">
-                                    <p class="card-text">Hébergement chez OVHcloud</p>
+                                    <img class="card-img-top" src="../image/ovhcloud.png" alt="ovh">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                </section>
-            </div>
+            </section>
         </div>
+    </div>
