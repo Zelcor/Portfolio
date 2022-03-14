@@ -112,4 +112,4 @@
                 </ul>
             </div>
         </nav>
-<div class="mt-5">
+<?php if($page !==1){ ?><div class="mt-5"> <?php } ?>
