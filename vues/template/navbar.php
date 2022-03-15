@@ -20,7 +20,7 @@
                         <ul class="dropdown-menu" role="menu">
                             <li role="presentation" class="dropdown-header dropdown-item"> En classe </li>
                             <li role="presentation" class="dropdown-item">
-                                <a role="menuitem" href="../../pages/C_nolark.php"> TP Projet Nolark </a>
+                                <a role="menuitem" href="../../pages/C_nolark.php"> TP Nolark </a>
                             </li>
                             <li role="presentation" class="dropdown-item">
                                 <a role="menuitem" href="../../pages/C_portfolio.php"> Portfolio </a>
