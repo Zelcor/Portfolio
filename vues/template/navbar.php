@@ -32,7 +32,7 @@
                                 <a role="menuitem" href="../../pages/C_seeulater.php"> TP MonPetitMVC </a>
                             </li>
                             <li role="presentation" class="dropdown-item disabled">
-                                <a role="menuitem" href="../../pages/C_seeulater.php"> Projet GSB-Appli_MVC </a>
+                                <a role="menuitem" href="../../pages/C_seeulater.php"> Projet 1 : GSB </a>
                             </li>
                             <li role="presentation" class="dropdown-divider"></li>
                             <li role="presentation" class="dropdown-header dropdown-item">
