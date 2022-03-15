@@ -35,6 +35,9 @@
                     </div>
                 </div>
             </div>
+            <div class="d-flex justify-content-end">
+                <a role="button" class="btn btn-primary" href="../pages/C_portfolio.php">portfolio ↣</a>
+            </div>
         </section>
     </div>
 </div>

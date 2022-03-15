@@ -27,6 +27,10 @@
                         </div>
                     </div>
                 </div>
+                <div class="d-flex justify-content-between">
+                    <a role="button" class="btn btn-primary" href="../pages/C_portfolio.php">↢ Portfolio</a>
+                    <a role="button" class="btn btn-primary" href="../pages/C_ptitmvc.php">TP MonPtitMVC ↣</a>
+                </div>
             </section>
         </div>
     </div>

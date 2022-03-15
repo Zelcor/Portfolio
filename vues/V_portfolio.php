@@ -35,6 +35,10 @@
                         </div>
                     </div>
                 </div>
+                <div class="d-flex justify-content-between">
+                    <a role="button" class="btn btn-primary" href="../pages/C_nolark.php">↢ TP Nolark</a>
+                    <a role="button" class="btn btn-primary" href="../pages/C_choco.php">TP Chocolate'in ↣</a>
+                </div>
             </section>
         </div>
     </div>
