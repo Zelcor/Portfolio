@@ -1,4 +1,4 @@
-</div>
+<?php if($page !==1){ ?> </div> <?php } ?>
     </body>
     <footer class="sticky-bottom">
         <div class="container">
