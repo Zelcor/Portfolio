@@ -25,8 +25,8 @@
                             <li role="presentation" class="dropdown-item">
                                 <a role="menuitem" href="../../pages/C_portfolio.php"> Portfolio </a>
                             </li>
-                            <li role="presentation" class="dropdown-item disabled">
-                                <a role="menuitem" href="../../pages/C_seeulater.php"> TP Chocolate'in </a>
+                            <li role="presentation" class="dropdown-item">
+                                <a role="menuitem" href="../../pages/C_choco.php"> TP Chocolate'in </a>
                             </li>
                             <li role="presentation" class="dropdown-item disabled">
                                 <a role="menuitem" href="../../pages/C_seeulater.php"> TP MonPetitMVC </a>
@@ -60,50 +60,9 @@
                             <span class ="fa fa-laptop"></span> Gestion patrimoine
                         </a>
                     </li>
-                    <li class="dropdown nav-item <?php if($page===4) { ?>active <?php } ?>">
-                        <a href="#" class="dropdown-toggle nav-link" data-toggle="dropdown" role="button">
-                            <span class="fa fa-graduation-cap"></span> Jury E4 BTS SIO
-                            <span class="caret"></span>
-                        </a>
-                        <ul class="dropdown-menu" role="menu">
-                            <li class="dropdown-header dropdown-item disabled" role="presentation"> Documentations contexte </li>
-                            <li role="presentation" class="dropdown-item">
-                                <a role="menuitem" href="../../pages/C_Presentation_epreuve_E4.php">Présentation</a>
-                            </li>
-                            <li role="presentation" class="dropdown-item disabled">
-                                <a role="menuitem" href="../../pages/C_seeulater.php">Application</a>
-                            </li>
-                            <li role="presentation" class="dropdown-item disabled">
-                                <a role="menuitem" href="../../pages/C_seeulater.php">Missions à réaliser</a>
-                            </li>
-                            <li role="presentation" class="dropdown-item disabled">
-                                <a role="menuitem" href="../../pages/C_seeulater.php">Annexes</a>
-                            </li>
-                            <li role="presentation" class="dropdown-divider"></li>
-                            <li role="presentation" class="dropdown-header dropdown-item disabled"> Fiches d'examen </li>
-                            <li role="presentation" class="dropdown-item disabled">
-                                <a role="menuitem" href="../../pages/C_seeulater.php">Situation professionnelle n°1</a>
-                            </li>
-                            <li role="presentation" class="dropdown-item disabled">
-                                <a role="menuitem" href="../../pages/C_seeulater.php">Situation professionnelle n°2</a>
-                            </li>
-                            <li role="presentation" class="dropdown-divider"></li>
-                            <li role="presentation" class="dropdown-header dropdown-item disabled"> Démonstrations </li>
-                            <li role="presentation" class="dropdown-item disabled">
-                                <a role="menuitem" href="../../pages/C_seeulater.php">Démo SP n°1</a>
-                            </li>
-                            <li role="presentation" class="dropdown-item disabled">
-                                <a role="menuitem" href="../../pages/C_seeulater.php">Démo SP n°2</a>
-                            </li>
-                            <li role="presentation" class="dropdown-divider"></li>
-                            <li role="presentation" class="dropdown-header dropdown-item disabled"> Codes sources </li>
-                            <li role="presentation" class="dropdown-item disabled">
-                                <a role="menuitem" href="../../pages/C_seeulater.php">Sources SP n°1</a>
-                            </li>
-                            <li role="presentation" class="dropdown-item disabled">
-                                <a role="menuitem" href="../../pages/C_seeulater.php">Sources SP n°2</a>
-                            </li>
-                        </ul>
+                    <li class="nav-item <?php if($page===4) { ?>active <?php } ?>">
+                        <a class="nav-link" href="../../pages/C_Presentation_epreuve_E4.php"><span class ="fa fa-info-circle"></span> Présentation épreuve E4</a>
+                    </li>
                     <li class ="nav-item <?php if($page===5) { ?>active <?php } ?>">
                         <a href="../../pages/C_contact.php" class="nav-link"><span class="fa fa-envelope"></span>
                             Me contacter
