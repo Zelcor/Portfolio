@@ -4,7 +4,7 @@
                 <div class="container">
                     <h1 class="jumbotron-heading">Réalisation de ce portfolio</h1>
                     <p class="lead text-muted">
-                        Cette activité m'a permis de développer mes connaissances en développement web, notamment à l'utilisation de bootstrap. Ce fut très constructif et maintenant je suis passé en php !
+                        Cette activité m'a permis de développer mes connaissances en développement web, notamment à l'utilisation de bootstrap. Ce fut très constructif et maintenant j'en ai fait un projet en l'améliorant et le passant en php !
                     </p>
                 </div>
                 <div class="container">
@@ -36,8 +36,8 @@
                     </div>
                 </div>
                 <div class="d-flex justify-content-between">
-                    <a role="button" class="btn btn-primary" href="../pages/C_nolark.php">↢ TP Nolark</a>
-                    <a role="button" class="btn btn-primary" href="../pages/C_choco.php">TP Chocolate'in ↣</a>
+                    <a role="button" class="btn btn-primary" href="../pages/C_nolark.php">↢ TP : Nolark</a>
+                    <a role="button" class="btn btn-primary" href="../pages/C_choco.php">TP : Chocolate'in ↣</a>
                 </div>
             </section>
         </div>
