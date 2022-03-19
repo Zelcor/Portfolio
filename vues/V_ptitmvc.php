@@ -45,7 +45,7 @@
                 </div>
                 <div class="d-flex justify-content-between">
                     <a role="button" class="btn btn-primary" href="../pages/C_choco.php">↢ TP Chocolate'in</a>
-                    <a role="button" class="btn btn-primary" href="#">Projet GSB (bientôt) ↣</a>
+                    <a role="button" class="btn btn-primary" href="../pages/C_Projet_1_GSB.php">Projet GSB (bientôt) ↣</a>
                 </div>
             </section>
         </div>
