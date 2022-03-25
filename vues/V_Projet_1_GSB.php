@@ -106,9 +106,10 @@
                 <div class="lead text-justify">
                     Ce projet m'a permis de progresser en PHP. La génération du PDF était assez complexe mais avec un peu de soutien et de travail d'équipe j'ai réussi ! Je suis personnellement plutôt fier de mon PDF et je ressort grandit de ce projet.
                 </div>
+                <br>
                 <div class="d-flex justify-content-between">
                     <a role="button" class="btn btn-primary" href="../pages/C_ptitmvc.php">↢ TP : MonPetitMVC</a>
-                    <a role="button" class="btn btn-primary" href="#">Projet 2 : MDL ↣</a>
+                    <a role="button" class="btn btn-primary" href="#">Projet 2 : MDL (bientôt) ↣</a>
                 </div>
             </div>
         </section>
