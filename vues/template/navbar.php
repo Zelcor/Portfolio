@@ -31,8 +31,11 @@
                             <li role="presentation" class="dropdown-item">
                                 <a role="menuitem" href="../../pages/C_ptitmvc.php"> TP MonPetitMVC </a>
                             </li>
+                            <li role="presentation" class="dropdown-item">
+                                <a role="menuitem" href="../../pages/C_Projet_1_GSB.php"> Projet 1 : GSB </a>
+                            </li>
                             <li role="presentation" class="dropdown-item disabled">
-                                <a role="menuitem" href="../../pages/C_seeulater.php"> Projet 1 : GSB </a>
+                                <a role="menuitem" href="../../pages/C_Projet_.php"> Projet 2 : MDL </a>
                             </li>
                             <li role="presentation" class="dropdown-divider"></li>
                             <li role="presentation" class="dropdown-header dropdown-item disabled">
@@ -41,7 +44,7 @@
                                 <a role="menuitem" href="../../pages/C_stage_1ere_annee.php">Stage de 1<sup>ère</sup> année</a>
                             </li>
                             <li role="presentation" class="dropdown-item disabled">
-                                <a role="menuitem" href="../../pages/C_seeulater.php">Stage de 2<sup>ème</sup> année</a>
+                                <a role="menuitem" href="../../pages/C_stage_">Stage de 2<sup>ème</sup> année</a>
                             </li>
                             <li role="presentation" class="dropdown-divider"></li>
                             <li role="presentation" class="dropdown-header dropdown-item disabled"> En autonomie </li>
