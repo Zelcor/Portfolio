@@ -5,7 +5,7 @@
                 <h1 class="jumbotron-heading "><u>Projet 1 : Galaxy Swiss Bourdin</u></h1>
                 <img class="image-responsive" src="https://i.imgur.com/qdkr3AY.jpg" alt="logo gsb">
                 <p class="lead">
-                    Les technologies utilisées lors de ce projet furent : <strong>PHP 7</strong>, <strong>IDE NetBeans</strong>, <strong>MariaDB</strong>
+                    Les technologies utilisées lors de ce projet furent : <strong>PHP 7</strong>, <strong>IDE NetBeans</strong>, <strong>MySQL</strong>
                 </p>
                 <h2 class="jumbotron-heading">Contexte du projet : </h2>
                 <p class="lead text-justify">
