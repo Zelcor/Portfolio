@@ -1,71 +1,82 @@
 <div class="jumbotron" id="jumbotron">
     <div class="row center">
-        <section class="jumbotron text-center">
+        <section class="jumbotron text-justify">
             <div class="container">
-                <h1 class="jumbotron-heading "><u>Stage de 1ère année</u></h1>
-                <img class="image-responsive" src="../image/DIRISI.png" alt="logo dirisi">
-                <p class="lead">
+                <h1 class="jumbotron-heading text-center"><u>Stage de 2nde année</u></h1>
+                <img class="image-responsive center" src="../image/DIRISI.png" alt="logo dirisi">
+                <p class="lead text-center">
                     Les technologies utilisées lors de ce stage furent : <strong>Angular</strong>, <strong>node.js</strong>, <strong>PostgreSQL</strong>
                 </p>
+                <h3 class="jumbotron-heading">Présentation de ce stage :</h3>
                 <hr>
-                <h3 class="jumbotron-heading"><u> Présentation de ce stage : </u></h3>
                 <p class="lead">
-                    Mon stage s’est déroulé au fort Lamalgue, plus précisément au pôle développement de la <strong>DIRISI</strong>.
-                    A mon arrivée, l’équipe de 7 développeurs m’a informé que les technologies utilisées sont <strong>Node.js</strong> et <strong>Angular</strong>.
+                    Ce second stage s’est également déroulé au pôle développement du fort Lamalgue de la <strong>DIRISI</strong>.
+                    A mon arrivée, 2 développeurs et un alternant s’étaient rajoutés à l’équipe, il n’y a pas eu de départs, l’équipe était donc composée de 10 personnes.
                 </p>
-                <div class="col-md-auto">
-                    <div class="card bg-light mb-4 shadow">
-                        <p class="card-header">Preuve autoformation open-classroom</p>
-                        <div class="card-body colapse multi-collapse hide" data-toggle="collapse" data-target="#auto-formation" aria-controls="auto-formation" aria-expanded="true">
-                            <small>
-                                cliquez sur l'image pour afficher le texte explicatif
-                                <img class="card-img-top" src="../image/openclassroom_autoformation_dirisi.jpg" alt="autoformation_dirisi">
-                            </small>
+                <p class="lead">
+                    Après m’être re-familiarisé avec les technologies utilisées : <strong>Angular</strong> et <strong>Node.JS</strong>, nous avons pu observer les changements drastiques appliqués au projet depuis notre départ.
+                </p>
+                <h5>Première tâche</h5>
+                <p class="lead">
+                    Etant la première mission qui me fut donnée elle ne fut en apparence pas trop complexe.
+                    En effet, il fallait faire un outil de conversion entre 2 unités : les mSv et les mRem (unités utilisées pour donner une évaluation de l'impact des rayonnements ionisants sur l'homme).
+                    J’ai donc utilisé le local storage afin que mes variables aient une portée sur toute l’application.
+                </p>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="card bg-light mb-4 shadow">
+                            <h5 class="card-header text-center">Aperçu de la fonctionnalité</h5>
+                            <div class="card-body">
+                                <img class="card-img-top" src="../image/conversion_msv-mrem.png" alt="ecran tache conversion unités">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="card bg-light mb-4 shadow">
+                            <h5 class="card-header text-center">Utilisation du local storage</h5>
+                            <div class="card-body">
+                                <img class="card-img-top" src="../image/local_storage_exemple.png" alt="image local storage">
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="collapse multi-collapse" id="auto-formation">
-                    <p class="lead">
-                        Ne maîtrisant ni l’une ni l'autre, j’ai dû me former sur OpenClassrooms (comme la plupart des développeurs présents).
-                        Ces formations m’ont pris l’entièreté de la 1ère semaine de mon stage.
-                        J’ai dû m’arrêter à la moitié parce qu’il y avait un problème de version entre la version utilisée par la formation et ma version locale.
-                    </p>
-                </div>
-
-                <p class="lead">
-                    Une fois ces technologies assimilées j’ai été ajouté au GitLab du projet sur lequel travaille l’équipe.
-                    Le projet s’appelle <strong>SIRA</strong> et il vise à fournir un service de santé permettant de surveiller l’exposition des militaires à la radiation atomique.
-                    Au sein de ce projet, nous devions faire fonctionner les applications avec <strong>Docker</strong> et <strong>Angular</strong>.
-                </p>
-                <div class="col-md-auto">
-                    <div class="card bg-light mb-4 shadow">
-                        <p class="card-header">Page Accueil SIRA</p>
-                        <div class="card-body" data-toggle="collapse" data-target="#auto-formation" aria-controls="auto-formation" aria-expanded="true">
-                            <img class="card-img-top" src="../image/sira.png" alt="accueil Sira">
-                        </div>
+                <div class="card bg-light mb-4 shadow">
+                    <h5 class="card-header text-center">Pull request de la fonctionnalité</h5>
+                    <div class="card-body">
+                        <img class="card-img-top" src="../image/PR_mrem-msv.png" alt="pull request tache conversion unités">
                     </div>
                 </div>
+                <h5>Seconde tâche</h5>
                 <p class="lead">
-                    Par la suite, j'ai fait de <strong>multiples écrans graphiques</strong> pour l’application afin de me familiariser avec <strong>Angular</strong>.
-                    Pour chaque nouvel écran je devais l'implémenter dans la navbar par le biais de la Base De Données.
-                    De plus il fallait s’occuper du routage afin que l’utilisateur puisse sélectionner le nouvel écran dans la barre de navigation et qu'il soit dirigé vers la bonne page, il en est de même pour tous les boutons utilisés.
-                    Mais aussi, chaque fenêtre doit pouvoir afficher et une fois validés ajoutés dans la BDD
-                    (dans une fenêtre où il fallait que je m’occupe de motifs je devais à la fois les afficher depuis la base et pouvoir en ajouter dans la base contenant tous les motifs).
+                    Ensuite, j’ai créé un script permettant la génération d’un fichier JSON dynamique (jeu d’essai) afin de remplir un tableau.
                 </p>
+                <div class="card bg-light mb-4 shadow">
+                    <h5 class="card-header text-center">Le script en question</h5>
+                    <div class="card-body">
+                        <img class="card-img-top" src="../image/script_generateur_de_fichier_JSON.png" alt="script js pour jeu d'essai">
+                    </div>
+                </div>
+                <h5>Troisième tâche</h5>
                 <p class="lead">
-                    J’ai par la suite essayé d’organiser une liste de rattachements avec un rapport parent-enfant (par exemple dans les sous-marins il y a la sous-catégorie des SNLE).
-                    Cette partie a mis à l’épreuve mon <strong>raisonnement algorithmique</strong> avec moult solutions apportées par l’équipe de développement.
+                    Enfin j’ai dû en partant d’un existant persister une observation dans le back. Et faire une refonte graphique de la page l’accompagnant (observation) depuis une fenêtre fonctionnelle.
                 </p>
+                <div class="card bg-light mb-4 shadow">
+                    <h5 class="card-header text-center">Résultat final</h5>
+                    <div class="card-body text-right">
+                        1 - Ce message s'envoie lorsque l'observation s'affiche sur l'écran actuel <br> 2 - Ce message s'envoie pour confirmer que le l'observation est stockée dans la base de donnée
+                        <img class="card-img-top" src="../image/dernière_tache.png" alt="script js pour jeu d'essai">
+                    </div>
+                </div>
+                <h3 class="jumbotron-heading">Conclusion sur ce stage : </h3>
                 <hr>
-                <h3 class="jumbotron-heading"><u>Conclusion sur ce stage : </u></h3>
                 <p class="lead">
-                    Ce stage m’a permis de découvrir le monde de l’entreprise, de plus il m’a apporté des connaissances en Node.js et Angular, deux technologies recherchées par les employeurs.
-                    Je souhaiterai approfondir mes connaissances dans ses technologies ou bien en découvrir d’autres dans mon prochain stage.
+                    Ce stage m’a permis d'approfondir mes connaissances du monde de l’entreprise, de plus il m’a apporté des connaissances en Node.js et Angular, deux technologies recherchées par les employeurs.
+                    Je souhaiterai approfondir mes connaissances dans ses technologies ou bien en découvrir d’autres au cours de ma poursuite d’étude.
                 </p>
-                <hr>
-                <h3 class="jumbotron-heading"><u> Télécharger ma synthèse de stage : </u></h3>
-                <p class="lead text-muted">Vous pouvez retrouver ci-après le lien menant vers ma synthèse de stage</p>
-                <a role="button" class="btn btn-primary mb-2 p-2" href="../image/documents/Synthèse%20de%20stage.pdf">Télécharger ma synthèse de stage</a>
+                <div class="d-flex justify-content-between">
+                    <a role="button" class="btn btn-primary" href="../pages/C_stage_1ere_annee.php">↢ Stage 1<sup>ère</sup> année</a>
+                    <a role="button" class="btn btn-primary" href="../pages/C_portfolio-php.php">Projet Personnel 1 : Portfolio en PHP ↣</a>
+                </div>
             </div>
         </section>
     </div>
