@@ -11,7 +11,7 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="card bg-light mb-4 shadow">
-                                <p class="card-header">Construction du site avec les langages html et css</p>
+                                <h5 class="card-header">Construction du site avec les langages html et css</h5>
                                 <div class="card-body">
                                     <img class="card-img-top" src="../image/HTML5_CSS.jpg" alt="logo html/css">
                                 </div>
@@ -19,7 +19,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="ccard bg-light mb-4 shadow">
-                                <p class="card-header">Utilisation de bootstrap pour l'interfaçage</p>
+                                <h5 class="card-header">Utilisation de bootstrap pour l'interfaçage</h5>
                                 <div class="card-body">
                                     <img class="card-img-top" src="../image/bootstrap.png" alt="logo bootstrap">
                                 </div>
@@ -27,7 +27,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="card bg-light mb-4 shadow">
-                                <p class="card-header">Hébergement chez OVHcloud</p>
+                                <h5 class="card-header">Hébergement chez OVHcloud</h5>
                                 <div class="card-body">
                                     <img class="card-img-top" src="../image/ovhcloud.png" alt="ovh">
                                 </div>

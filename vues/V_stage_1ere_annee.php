@@ -1,22 +1,22 @@
 <div class="jumbotron" id="jumbotron">
     <div class="row center">
-        <section class="jumbotron text-center">
+        <section class="jumbotron text-justify">
             <div class="container">
-                <h1 class="jumbotron-heading "><u>Stage de 1ère année</u></h1>
-                <img class="image-responsive" src="../image/DIRISI.png" alt="logo dirisi">
-                <p class="lead">
+                <h1 class="jumbotron-heading text-center"><u>Stage de 1ère année</u></h1>
+                <img class="image-responsive center" src="../image/DIRISI.png" alt="logo dirisi">
+                <p class="lead text-center">
                     Les technologies utilisées lors de ce stage furent : <strong>Angular</strong>, <strong>node.js</strong>, <strong>PostgreSQL</strong>
                 </p>
+                <h3 class="jumbotron-heading">Présentation de ce stage :</h3>
                 <hr>
-                <h3 class="jumbotron-heading"><u> Présentation de ce stage : </u></h3>
                 <p class="lead">
                     Mon stage s’est déroulé au fort Lamalgue, plus précisément au pôle développement de la <strong>DIRISI</strong>.
                     A mon arrivée, l’équipe de 7 développeurs m’a informé que les technologies utilisées sont <strong>Node.js</strong> et <strong>Angular</strong>.
                 </p>
                 <div class="col-md-auto">
                     <div class="card bg-light mb-4 shadow">
-                        <p class="card-header">Preuve autoformation open-classroom</p>
-                        <div class="card-body colapse multi-collapse hide" data-toggle="collapse" data-target="#auto-formation" aria-controls="auto-formation" aria-expanded="true">
+                        <h5 class="card-header text-center">Preuve autoformation open-classroom</h5>
+                        <div class="card-body colapse multi-collapse hide text-center" data-toggle="collapse" data-target="#auto-formation" aria-controls="auto-formation" aria-expanded="true">
                             <small>
                                 cliquez sur l'image pour afficher le texte explicatif
                                 <img class="card-img-top" src="../image/openclassroom_autoformation_dirisi.jpg" alt="autoformation_dirisi">
@@ -31,7 +31,6 @@
                         J’ai dû m’arrêter à la moitié parce qu’il y avait un problème de version entre la version utilisée par la formation et ma version locale.
                     </p>
                 </div>
-
                 <p class="lead">
                     Une fois ces technologies assimilées j’ai été ajouté au GitLab du projet sur lequel travaille l’équipe.
                     Le projet s’appelle <strong>SIRA</strong> et il vise à fournir un service de santé permettant de surveiller l’exposition des militaires à la radiation atomique.
@@ -39,8 +38,8 @@
                 </p>
                 <div class="col-md-auto">
                     <div class="card bg-light mb-4 shadow">
-                        <p class="card-header">Page Accueil SIRA</p>
-                        <div class="card-body" data-toggle="collapse" data-target="#auto-formation" aria-controls="auto-formation" aria-expanded="true">
+                        <h5 class="card-header text-center">Page Accueil SIRA</h5>
+                        <div class="card-body">
                             <img class="card-img-top" src="../image/sira.png" alt="accueil Sira">
                         </div>
                     </div>
@@ -56,16 +55,20 @@
                     J’ai par la suite essayé d’organiser une liste de rattachements avec un rapport parent-enfant (par exemple dans les sous-marins il y a la sous-catégorie des SNLE).
                     Cette partie a mis à l’épreuve mon <strong>raisonnement algorithmique</strong> avec moult solutions apportées par l’équipe de développement.
                 </p>
+                <h3 class="jumbotron-heading">Conclusion sur ce stage : </h3>
                 <hr>
-                <h3 class="jumbotron-heading"><u>Conclusion sur ce stage : </u></h3>
                 <p class="lead">
                     Ce stage m’a permis de découvrir le monde de l’entreprise, de plus il m’a apporté des connaissances en Node.js et Angular, deux technologies recherchées par les employeurs.
                     Je souhaiterai approfondir mes connaissances dans ses technologies ou bien en découvrir d’autres dans mon prochain stage.
                 </p>
-                <hr>
-                <h3 class="jumbotron-heading"><u> Télécharger ma synthèse de stage : </u></h3>
-                <p class="lead text-muted">Vous pouvez retrouver ci-après le lien menant vers ma synthèse de stage</p>
-                <a role="button" class="btn btn-primary mb-2 p-2" href="../image/documents/Synthèse%20de%20stage.pdf">Télécharger ma synthèse de stage</a>
+                <div class="text-center">
+                    <a role="button" class="btn btn-primary mb-2 p-2" href="../image/documents/Synthèse%20de%20stage.pdf">Télécharger ma synthèse de stage</a>
+                </div>
+                <br>
+                <div class="d-flex justify-content-between">
+                    <a role="button" class="btn btn-primary" href="#">↢ Projet 2 : MDL (bientôt)</a>
+                    <a role="button" class="btn btn-primary" href="../pages/C_stage_2nde_annee.php">Stage 2<sup>nde</sup> année ↣</a>
+                </div>
             </div>
         </section>
     </div>

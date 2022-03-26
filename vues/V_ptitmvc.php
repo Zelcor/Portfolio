@@ -11,7 +11,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="card bg-light mb-4 shadow">
-                                <p class="card-header">Liste des clients présent dans la Base De Données</p>
+                                <h5 class="card-header">Liste des clients présent dans la Base De Données</h5>
                                 <div class="card-body">
                                     <img class="card-img-top" src="../image/ptit-mvc-liste-cli.png" alt="Liste clients">
                                 </div>
@@ -19,7 +19,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="card bg-light mb-4 shadow">
-                                <p class="card-header">Résultat affiché lors du clic sur le bouton de l'image précédente</p>
+                                <h5 class="card-header">Résultat affiché lors du clic sur le bouton de l'image précédente</h5>
                                 <div class="card-body">
                                     <img class="card-img-top" src="../image/clic-btn-voir_comm_cli2.png" alt="détail client + liste des commandes">
                                 </div>
@@ -27,7 +27,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="card bg-light mb-4 shadow">
-                                <p class="card-header">Voir un client et l'éditer en Ajax (sans recharger de page)</p>
+                                <h5 class="card-header">Voir un client et l'éditer en Ajax (sans recharger de page)</h5>
                                 <div class="card-body">
                                     <img class="card-img-top" src="../image/ptit-mvc-ajax.png" alt="Recherche client ajax">
                                 </div>
@@ -35,7 +35,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="card bg-light mb-4 shadow">
-                                <p class="card-header">Formulaire dynamique en fonction de la bdd</p>
+                                <h5 class="card-header">Formulaire dynamique en fonction de la bdd</h5>
                                 <div class="card-body">
                                     <img class="card-img-top" src="../image/recherche-cli-depuis-bdd.png" alt="Formulaire de recherche">
                                 </div>

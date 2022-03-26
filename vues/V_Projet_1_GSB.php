@@ -28,7 +28,7 @@
                             <div class="col-md-auto">
                                 <div class="card bg-light mb-4 shadow">
                                     <h5 class="card-header text-center"> Avec l'aide de la documentation j'en suis donc arrivé à ce résultat (version finale) :</h5>
-                                    <div class="card-body center" data-toggle="collapse" data-target="#auto-formation" aria-controls="auto-formation" aria-expanded="true">
+                                    <div class="card-body center">
                                         <embed src="../image/documents/REMBOURSEMENT_FRAIS_202111-Villechalane.pdf" width=800 height=500 type='application/pdf'/>
                                     </div>
                                 </div>
@@ -36,7 +36,7 @@
                             <div class="col-md-auto">
                                 <div class="card bg-light mb-4 shadow">
                                     <h5 class="card-header text-center">J'ai donc mis un bouton permettant de générer le pdf seulement si la fiche est validée.<br>En effet, il y a la signature du comptable.</h5>
-                                    <div class="card-body" data-toggle="collapse" data-target="#auto-formation" aria-controls="auto-formation" aria-expanded="true">
+                                    <div class="card-body">
                                         <img class="card-img-top" src="../image/gsb_interface_avant.png" alt="interface_pdf">
                                     </div>
                                 </div>
@@ -52,7 +52,7 @@
                             <div class="col-md-auto">
                                 <div class="card bg-light mb-4 shadow">
                                     <h5 class="card-header text-center">Fonctionnement dans les fichiers de l'application</h5>
-                                    <div class="card-body" data-toggle="collapse" data-target="#auto-formation" aria-controls="auto-formation" aria-expanded="true">
+                                    <div class="card-body">
                                         <img class="card-img-top" src="../image/emplacement_pdf_genere.png" alt="emplacement pdf généré">
                                     </div>
                                 </div>
@@ -61,7 +61,7 @@
                             <div class="col-md-auto">
                                 <div class="card bg-light mb-4 shadow">
                                     <h5 class="card-header text-center">Tests pour davantage de sécurité et si le pdf n'est pas déjà existant</h5>
-                                    <div class="card-body" data-toggle="collapse" data-target="#auto-formation" aria-controls="auto-formation" aria-expanded="true">
+                                    <div class="card-body">
                                         <img class="card-img-top" src="../image/tests_pour_la_securitee_dans_l'application.png" alt="tests pour plus de sécuritée">
                                     </div>
                                 </div>
@@ -84,7 +84,7 @@
                             <div class="col-md-6 center">
                                 <div class="card bg-light mb-4 shadow">
                                     <h5 class="card-header text-center">Documentation utilisateur pour se connecter</h5>
-                                    <div class="card-body" data-toggle="collapse" data-target="#auto-formation" aria-controls="auto-formation" aria-expanded="true">
+                                    <div class="card-body">
                                         <img class="card-img-top" src="../image/doc_gsb_1.png" alt="documentation authentification GSB">
                                     </div>
                                 </div>
@@ -94,7 +94,7 @@
                             <div class="col-md-auto">
                                 <div class="card bg-light mb-4 shadow">
                                     <h5 class="card-header text-center">Documentation utilisateur pour générer le PDF</h5>
-                                    <div class="card-body" data-toggle="collapse" data-target="#auto-formation" aria-controls="auto-formation" aria-expanded="true">
+                                    <div class="card-body">
                                         <img class="card-img-top" src="../image/doc_gsb_2.png" alt="documentation génération PDF">
                                     </div>
                                 </div>

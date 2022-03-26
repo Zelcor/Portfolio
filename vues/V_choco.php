@@ -11,7 +11,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="card bg-light mb-4 shadow">
-                                <p class="card-header">Des requêtes sont effectués afin d'afficher les données</p>
+                                <h5 class="card-header">Des requêtes sont effectués afin d'afficher les données</h5>
                                 <div class="card-body">
                                     <img class="card-img-top" src="../image/choco_affiche_tous.png" alt="interface_choco">
                                 </div>
@@ -19,7 +19,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="card bg-light mb-4 shadow">
-                                <p class="card-header">Utilisation d'une bdd mysql en hébergement local</p>
+                                <h5 class="card-header">Utilisation d'une bdd mysql en hébergement local</h5>
                                 <div class="card-body">
                                     <img class="card-img-top" src="../image/choco_affiche_tous_bdd.png" alt="bdd_choco">
                                 </div>

@@ -11,7 +11,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="card bg-light mb-4 shadow">
-                            <div class="card-header">Page d'accueil</div>
+                            <h5 class="card-header">Page d'accueil</h5>
                             <div class="card-body">
                                 <img class="card-img" src="../image/nolark_accueil.jpg" alt="accueil nolark">
                             </div>
@@ -19,7 +19,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="card bg-light mb-4 shadow">
-                            <div class="card-header">Affichage de casques de manière frontale, avec des caractéristiques les concernants</div>
+                            <h5 class="card-header">Affichage de casques de manière frontale, avec des caractéristiques les concernants</h5>
                             <div class="card-body">
                                 <img class="card-img" src="../image/nolark_route.jpg" alt="page exposition casque route nolark">
                             </div>
@@ -27,7 +27,7 @@
                     </div>
                     <div class="col-md-4">
                         <div class="card bg-light mb-4 shadow">
-                            <div class="card-header">Page de contact</div>
+                            <h5 class="card-header">Page de contact</h5>
                             <div class="card-body">
                                 <img class="card-img" src="../image/nolark_contact.jpg" alt="page contact nolark">
                             </div>
