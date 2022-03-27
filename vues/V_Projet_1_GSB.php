@@ -12,17 +12,18 @@
                     Le laboratoire Galaxy Swiss Bourdin (GSB) est issu de la fusion entre le géant américain <strong>Galaxy</strong> (spécialisé dans le secteur des maladies virales dont le SIDA et les hépatites) et le conglomérat européen
                     <strong>Swiss Bourdin</strong> (travaillant sur des médicaments plus conventionnels), lui-même déjà union de trois petits laboratoires.
                     Après deux années de réorganisations internes, tant au niveau du personnel que du fonctionnement administratif, l'entreprise <strong>GSB souhaite moderniser</strong> l'activité de visite médicale.
-                    Une <strong>gestion</strong> unique de ces <strong>frais</strong> et <strong>remboursement</strong> pour l'ensemble de la flotte visite est souhaitée.
+                    Une <strong>gestion</strong> unique de ces <strong>frais</strong> et le <strong>remboursement</strong> pour l'ensemble des visites est souhaitée.
                 </p>
                 <div class="text-left">
                     <h3 class="jumbotron-heading text-left colapse multi-collapse" data-toggle="collapse" data-target="#generation_pdf" aria-controls="generation_pdf" aria-expanded="true">Tâche 1 : Génération d'un pdf</h3>
                     <hr>
                     <div class="collapse multi-collapse mb-4 show" id="generation_pdf">
                         <div class="lead text-justify">
-                            J'ai eu du mal a déterminer la meilleure librairie, mon professeur m'ayant recommandé <a class="text-danger" href="http://www.fpdf.org/">FPDF</a> je l'essaie mais l'abandonne parce que j'ai rencontré de difficultés avec l'encodage. <br>
-                            J'ai donc essayé <a class="text-primary" href="https://www.html2pdf.fr/">HTML2PDF</a> car celui-ci me paraissais plus simple. Mais celui-ci m'a posé problème avec l'utilisation de bootstrap qui n'est pas prise en compte. <br>
-                            J'ai donc décidé de trouver une alternative de <a class="text-danger" href="http://www.fpdf.org/">FPDF</a> et il se trouve qu'il y a moults librairies qui améliorent <a class="text-danger" href="http://www.fpdf.org/">FPDF</a>, j'ai donc tout d'abord essayé <a class="text-info" href="http://www.fpdf.org/en/script/script92.php">TFPDF</a>.<br>
-                            Au final j'ai choisi <a class="text-success" href="https://tcpdf.org/">TCPDF</a> qui est une version améliorée de <a class="text-info" href="http://www.fpdf.org/en/script/script92.php">TFPDF</a> et qui gere notamment l'encodage utf-8.
+                            J'ai eu du mal à déterminer la meilleure librairie, mon professeur m'ayant recommandé <a class="text-danger" href="http://www.fpdf.org/" target="_blank">FPDF</a>. Je l'ai essayé et abandonnée parce que j'ai rencontré de difficultés avec l'encodage. <br>
+                            J'ai donc utilisé <a class="text-primary" href="https://www.html2pdf.fr/" target="_blank">HTML2PDF</a> car elle me paraissait plus simple. Celle-ci m'a tout de même posé problème avec l'utilisation de bootstrap qui n'est pas prise en compte. <br>
+                            J'ai donc décidé de trouver une alternative de <a class="text-danger" href="http://www.fpdf.org/" target="_blank">FPDF</a>, il se trouve qu'il y a beaucoup de librairies qui améliorent <a class="text-danger" href="http://www.fpdf.org/" target="_blank">FPDF</a>.
+                            J'ai donc essayé <a class="text-info" href="http://www.fpdf.org/en/script/script92.php" target="_blank">TFPDF</a>.<br>
+                            Au final j'ai choisi <a class="text-success" href="https://tcpdf.org/" target="_blank">TCPDF</a> qui est une version améliorée de <a class="text-info" href="http://www.fpdf.org/en/script/script92.php" target="_blank">TFPDF</a>, elle gère notamment l'encodage UTF-8.
                             <br>
                             <br>
                             <div class="col-md-auto">
@@ -48,7 +49,7 @@
                     <div class="collapse multi-collapse show" id="eco_dans_appli">
                         <div class="lead text-justify">
                             La fiche de remboursement de frais est stockée dans un fichier <strong>généré automatiquement</strong> lors de la génération du premier PDF. <br>
-                            Ce dossier est stocker dans les vues dans un fichier intitulé "vues".
+                            Ce dossier est stocké dans les vues et s'appelle "files".
                             <div class="col-md-auto">
                                 <div class="card bg-light mb-4 shadow">
                                     <h5 class="card-header text-center">Fonctionnement dans les fichiers de l'application</h5>
@@ -57,7 +58,7 @@
                                     </div>
                                 </div>
                             </div>
-                            Par la suite j'ai réalisé divers tests afin de <strong>vérifier que l'utilisateur</strong> final voulant générer la fiche de remboursement y soit bien <strong>autorisé</strong>.
+                            Par la suite j'ai réalisé divers tests. J'ai vérifié que <strong>l'utilisateur final</strong> générant la fiche de remboursement y soit bien <strong>autorisé</strong>.
                             <div class="col-md-auto">
                                 <div class="card bg-light mb-4 shadow">
                                     <h5 class="card-header text-center">Tests pour davantage de sécurité et si le pdf n'est pas déjà existant</h5>
@@ -66,7 +67,7 @@
                                     </div>
                                 </div>
                             </div>
-                            Une fois les données injectés dans la librairie (<a class="text-success" href="https://tcpdf.org/">TCPDF</a>), qui ce charge alors de générer le pdf.
+                            Une fois les données injectés dans la librairie (<a class="text-success" href="https://tcpdf.org/" target="_blank">TCPDF</a>), elle se charge de générer le pdf.
                             <div class="col-md-auto">
                                 <div class="card bg-light mb-4 shadow">
                                     <h5 class="card-header text-center">Génération du pdf et création du répertoire si c'est le premier pdf généré</h5>
@@ -104,7 +105,7 @@
                 </div>
                 <h2 class="jumbotron-heading">Conclusion : </h2>
                 <div class="lead text-justify">
-                    Ce projet m'a permis de progresser en PHP. La génération du PDF était assez complexe mais avec un peu de soutien et de travail d'équipe j'ai réussi ! Je suis personnellement plutôt fier de mon PDF et je ressort grandit de ce projet.
+                    Ce projet m'a permis de progresser en PHP. La génération du PDF étant complexe, cependant avec le soutien et le travail d'équipe j'ai réussi. Je suis personnellement fier de mon PDF. Je ressors grandi de ce projet.
                 </div>
                 <br>
                 <div class="d-flex justify-content-between">

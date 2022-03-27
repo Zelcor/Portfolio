@@ -7,9 +7,9 @@
                     J'ai effectué le passage de mon portfolio pendant les vacances de la toussaint après avoir abordé le php et l'architecture
                     mvc en classe.
                     <br>
-                    Ce passage en php fut très constructif et pratique, mais je prend toujours un plaisir a y travailler !
+                    Ce passage en php fut très constructif et pratique, mais je prends toujours un plaisir à y travailler !
                     <br>
-                    Si vous avez remarqué une quelconque défaillance sur ce site n'hésitez pas a me contacter sur ma page contact !
+                    Si vous avez remarqué une quelconque défaillance sur ce site n'hésitez pas à me contacter sur <a href="../pages/C_contact.php">ma page contact</a>.
                 </p>
             </div>
             <div class="container">

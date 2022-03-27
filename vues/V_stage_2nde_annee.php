@@ -11,15 +11,15 @@
                 <hr>
                 <p class="lead">
                     Ce second stage s’est également déroulé au pôle développement du fort Lamalgue de la <strong>DIRISI</strong>.
-                    A mon arrivée, 2 développeurs et un alternant s’étaient rajoutés à l’équipe, il n’y a pas eu de départs, l’équipe était donc composée de 10 personnes.
+                    A mon arrivée, 2 développeurs et un alternant s’étaient rajoutés à l’équipe, il n’y a pas eu de départ. L’équipe était donc composée de 10 personnes.
                 </p>
                 <p class="lead">
                     Après m’être re-familiarisé avec les technologies utilisées : <strong>Angular</strong> et <strong>Node.JS</strong>, nous avons pu observer les changements drastiques appliqués au projet depuis notre départ.
                 </p>
                 <h5>Première tâche</h5>
                 <p class="lead">
-                    Etant la première mission qui me fut donnée elle ne fut en apparence pas trop complexe.
-                    En effet, il fallait faire un outil de conversion entre 2 unités : les mSv et les mRem (unités utilisées pour donner une évaluation de l'impact des rayonnements ionisants sur l'homme).
+                    Étant la première mission qui me fut donnée, en apparence guère complexe.
+                    Il fallait faire un outil de conversion entre 2 unités : les <a href="https://www.asn.fr/lexique/M/Millisievert" target="_blank">mSv</a> et les <a href="https://www.cordial.fr/dictionnaire/definition/millirem.php" target="_blank">mRem</a> (unités utilisées pour donner une évaluation de l'impact des rayonnements ionisants sur l'homme).
                     J’ai donc utilisé le local storage afin que mes variables aient une portée sur toute l’application.
                 </p>
                 <div class="row">
@@ -58,12 +58,12 @@
                 </div>
                 <h5>Troisième tâche</h5>
                 <p class="lead">
-                    Enfin j’ai dû en partant d’un existant persister une observation dans le back. Et faire une refonte graphique de la page l’accompagnant (observation) depuis une fenêtre fonctionnelle.
+                    Enfin j’ai dû en partant d’un existant persister une observation dans le back. Et faire une refonte graphique de la page l’accompagnent (observation), depuis une fenêtre fonctionnelle.
                 </p>
                 <div class="card bg-light mb-4 shadow">
                     <h5 class="card-header text-center">Résultat final</h5>
                     <div class="card-body text-right">
-                        1 - Ce message s'envoie lorsque l'observation s'affiche sur l'écran actuel <br> 2 - Ce message s'envoie pour confirmer que le l'observation est stockée dans la base de donnée
+                        1 - Ce message s'envoie lorsque l'observation s'affiche sur l'écran actuel <br> 2 - Ce message s'envoie pour confirmer que l'observation est stockée dans la base de donnée
                         <img class="card-img-top" src="../image/dernière_tache.png" alt="script js pour jeu d'essai">
                     </div>
                 </div>

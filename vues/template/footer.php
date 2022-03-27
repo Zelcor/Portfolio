@@ -4,9 +4,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4">
-                    <h2 class="title-stage mt-3" role="button" data-toggle="collapse" data-target="#lyc-bona" aria-controls="lyc-bona" aria-expanded="true">Le lycée Bonaparte</h2>
-                    <small class="form-text text-muted">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☝  Cliquez pour dérouler !  👆</small>
-                    <hr>
+                    <div role="button" data-toggle="collapse" data-target="#lyc-bona" aria-controls="lyc-bona" aria-expanded="true">
+                        <h2 class="title-stage mt-3">Le lycée Bonaparte</h2>
+                        <small class="form-text text-muted">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ☝  Cliquez pour dérouler !  👆</small>
+                        <hr>
+                    </div>
                     <div id="lyc-bona" class="collapse multi-collapse">
                         <p> J'ai choisi de suivre le BTS SIO au lycée Bonaparte à Toulon car j'aime cette ville et l'emplacement du lycée correspond à ma zone géographique.
                             De plus je vis en autonomie depuis l'an dernier, le soutien des professeurs et leur remotivation me sont vraiment utile !
@@ -15,9 +17,11 @@
                     <a class="btn btn-secondary" href="https://www.lyc-bonaparte.fr/" target="_blank" role="button">En savoir plus »</a>
                 </div>
                 <div class="col-lg-4">
-                    <h2 class="title-stage mt-3" role="button" data-toggle="collapse" data-target="#bts-sio" aria-controls="bts-sio" aria-expanded="true">Le BTS SIO</h2>
-                    <small class="form-text text-muted"> ☝ Cliquez pour dérouler ! 👆</small>
-                    <hr>
+                    <div role="button" data-toggle="collapse" data-target="#bts-sio" aria-controls="bts-sio" aria-expanded="true">
+                        <h2 class="title-stage mt-3">Le BTS SIO</h2>
+                        <small class="form-text text-muted"> ☝ Cliquez pour dérouler ! 👆</small>
+                        <hr>
+                    </div>
                     <div id="bts-sio" class="collapse multi-collapse">
                         <p> Passionné d'informatique depuis mon plus jeune âge, j'aime apprendre à faire de nouvelles choses avec les outils qui m'entourent.
                             Un passionné de technologie ? Oui carrément ! Mais j'aimerais maintenant approfondir mes connaissances!
@@ -28,9 +32,11 @@
                     <a class="btn btn-secondary" href="https://fr.wikipedia.org/wiki/Brevet_de_technicien_supérieur_-_Services_informatiques_aux_organisations" target="_blank" role="button">En savoir plus »</a>
                 </div>
                 <div class="col-lg-4">
-                    <h2 class="title-stage mt-3" role="button" data-toggle="collapse" data-target="#opt-slam" aria-controls="opt-slam" aria-expanded="true">Option B SLAM</h2>
-                    <small class="form-text text-muted">&nbsp;☝  Cliquez pour dérouler !  👆</small>
-                    <hr>
+                    <div role="button" data-toggle="collapse" data-target="#opt-slam" aria-controls="opt-slam" aria-expanded="true">
+                        <h2 class="title-stage mt-3">Option B SLAM</h2>
+                        <small class="form-text text-muted">&nbsp;☝  Cliquez pour dérouler !  👆</small>
+                        <hr>
+                    </div>
                     <div id="opt-slam" class="collapse multi-collapse">
                         <p> En fin de premier semestre, on a du choisir notre option. "Solutions Logicielles et Applications Métiers" est l'option qui m'a séduit ! Travailler en équipe à la satisfaction de besoins d'un client, définir des spécifications,
                             faire des tests, corriger des bugs, faire de la maintenance... tout en apprenant les bases du métier de développeur : modélisation des données, programmation objet avec C# et PHP, conception de bases de

@@ -11,7 +11,7 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="card bg-light mb-4 shadow">
-                                <h5 class="card-header">Liste des clients présent dans la Base De Données</h5>
+                                <h5 class="card-header">Liste des clients présents dans la Base De Données</h5>
                                 <div class="card-body">
                                     <img class="card-img-top" src="../image/ptit-mvc-liste-cli.png" alt="Liste clients">
                                 </div>
@@ -27,7 +27,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="card bg-light mb-4 shadow">
-                                <h5 class="card-header">Voir un client et l'éditer en Ajax (sans recharger de page)</h5>
+                                <h5 class="card-header">Voir un client et l'éditer en Ajax (sans recharger la page)</h5>
                                 <div class="card-body">
                                     <img class="card-img-top" src="../image/ptit-mvc-ajax.png" alt="Recherche client ajax">
                                 </div>

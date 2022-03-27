@@ -14,12 +14,12 @@
                         <div class="d-flex justify-content-around">
                             <div class="d-flex align-items-center flex-column center">
                                 <img src="image/certication_pix.png" width="200" height="200">
-                                <a href="https://app.pix.fr/partage-certificat/1177533">Certification PIX : code de vérification <strong>P-FT832F8G</strong></a>
+                                <a href="https://app.pix.fr/partage-certificat/1177533" target="_blank">Certification PIX : code de vérification <strong>P-FT832F8G</strong></a>
                                 <embed src="../image/documents/attestation%20pix.pdf" width="600" height="300"/>
                             </div>
                             <div class="d-flex align-items-center flex-column center">
                                 <img src="image/ANSSI_Logo.png" width="200" height="200">
-                                <a href="https://secnumacademie.gouv.fr/">Attestation de Suivi : SecNum académie</a href="https://app.pix.fr/partage-certificat/1177533">
+                                <a href="https://secnumacademie.gouv.fr/" target="_blank">Attestation de Suivi : SecNum académie</a>
                                 <embed src="../image/documents/attestation%20SecNum.pdf" width="600" height="300"/>
                             </div>
                         </div>

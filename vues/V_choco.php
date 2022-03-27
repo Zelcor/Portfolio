@@ -4,7 +4,7 @@
                 <div class="container">
                     <h1 class="jumbotron-heading">TP Chocolate'in</h1>
                     <p class="lead text-muted">
-                        Cette activité m'a permis d'effectuer des requetes afin d'afficher des données de manière dynamique !
+                        Cette activité m'a permis d'effectuer des requêtes afin d'afficher des données de manière dynamique !
                     </p>
                 </div>
                 <div class="container">
