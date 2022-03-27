@@ -1,4 +1,4 @@
-        <div class="jumbotron" id="jumbotron">
+        <div class="jumbotron justify-content-center" id="jumbotron">
             <div class="cadreCV">
                 <div class="m-3">
                     <h1>Présentation :</h1>
@@ -19,7 +19,7 @@
                             </div>
                             <div class="d-flex align-items-center flex-column center">
                                 <img src="image/ANSSI_Logo.png" width="200" height="200">
-                                <a href="https://secnumacademie.gouv.fr/">Attestation de Suivi : SecNum académie <strong>P-FT832F8G</strong></a href="https://app.pix.fr/partage-certificat/1177533">
+                                <a href="https://secnumacademie.gouv.fr/">Attestation de Suivi : SecNum académie</a href="https://app.pix.fr/partage-certificat/1177533">
                                 <embed src="../image/documents/attestation%20SecNum.pdf" width="600" height="300"/>
                             </div>
                         </div>
