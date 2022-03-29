@@ -3,7 +3,7 @@
                 <div class="row cadreCV">
                     <div id="cv-entete" class ="text-center">
                         <div id="cv-photo">
-                            <img src="../image/clementloze.jpg" alt="Ma photo d'identité" class="rounded-circle">
+                            <img src="../image/clementloze.png" alt="Ma photo d'identité" class="rounded-circle">
                         </div>
                         <div id="cv-intro">
                             <h1>Je m'appelle Clément et voici mon CV</h1>
