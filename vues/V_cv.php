@@ -175,7 +175,7 @@
                             <a role="button" class="btn btn-primary mb-2 p-2" href="../../pages/C_contact.php">En savoir plus » </a>
                         </div>
                     </div>
-                    <div class="center">
+                    <div class="d-flex justify-content-center">
                         <a role="button" class="btn btn-primary mb-2 p-2" href="../../image/documents/cv.pdf">Télécharger CV</a>
                     </div>
                 </div>
