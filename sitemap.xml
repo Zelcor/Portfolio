@@ -1,26 +1,65 @@
-<urlset>
-  <url>
-    <loc>https://clementloze.fr/</loc>
-    <priority>1.00</priority>
-  </url>
-  <url>
-      <loc>https://clementloze.fr/index.php</loc>
-      <priority>0.10</priority>
-  </url>
-  <url>
-    <loc>https://clementloze.fr/pages/C_cv.php</loc>
-    <priority>0.90</priority>
-  </url>
-  <url>
-    <loc>https://clementloze.fr/pages/C_contact.php</loc>
-    <priority>0.90</priority>
-  </url>
-  <url>
-    <loc>https://clementloze.fr/pages/C_veille.php</loc>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://clementloze.fr/pages/C_portfolio.php</loc>
-    <priority>0.60</priority>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://clementloze.fr/</loc>
+  <lastmod>2022-02-23T14:23:55+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://clementloze.fr/pages/C_cv.php</loc>
+  <lastmod>2022-02-23T14:23:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clementloze.fr/pages/C_nolark.php</loc>
+  <lastmod>2022-02-23T14:23:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clementloze.fr/pages/C_portfolio.php</loc>
+  <lastmod>2022-02-23T14:23:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clementloze.fr/pages/C_seeulater.php</loc>
+  <lastmod>2022-02-23T14:23:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clementloze.fr/pages/C_stage_1ere_annee.php</loc>
+  <lastmod>2022-02-23T14:23:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clementloze.fr/pages/C_portfolio-php.php</loc>
+  <lastmod>2022-02-23T14:23:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clementloze.fr/pages/C_veille.php</loc>
+  <lastmod>2022-02-23T14:23:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clementloze.fr/pages/C_patrimoine.php</loc>
+  <lastmod>2022-02-23T14:23:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clementloze.fr/pages/C_Presentation_epreuve_E4.php</loc>
+  <lastmod>2022-02-23T14:23:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://clementloze.fr/pages/C_contact.php</loc>
+  <lastmod>2022-02-23T14:23:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 </urlset>
