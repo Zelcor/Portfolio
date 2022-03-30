@@ -2,16 +2,11 @@
             <div class="cadreCV">
                 <div class="m-3 text-center">
                     <div class="d-flex justify-content-center">
-                        <img src="image/clementloze.png" height="250" class="mr-3 rounded align-self-start">
+                        <img src="image/photo-1.png" height="250" class="mr-3 rounded align-self-start">
                     </div>
-                    <h1 class="text-center">Developpeur, Animateur, Surveillant Baignade, Altruiste</h1>
-                    <!--
-                        <div class = "d-flex align-items-start flex-column">
-                            <p class="lead p-2"> Je m'appelle Clément LOZE, j'ai 19 ans et ce site a pour vocation de me présenter en tant que personne, en tant qu'étudiant et candidat à l'obtention du BTS SIO (Services Informatiques aux Organisations) et en tant que futur professionnel de l'informatique.</p>
-                            
-                        </div>
-                    -->
-                    <a role="button" class="btn btn-primary mb-2 p-2 text-center" href="../../pages/C_cv.php">Voir CV » </a>
+                    <h1 class="text-center">Développeur, <a class="text-dark" href="/image/documents/diplome_BAFA_Clément_LOZE.pdf" style="text-decoration: none;" target="_blank">Animateur Surveillant Baignade</a>, Altruiste</h1>
+                    <br>
+                    <a role="button" class="btn btn-primary mb-2 p-2 text-center" href="../../pages/C_cv.php">Voir mon CV » </a>
                     <div>
                         <h1>Mes Certifications :</h1>
                         <div class="d-flex justify-content-around">
