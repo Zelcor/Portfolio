@@ -3,7 +3,7 @@
         <div class="row cadreCV">
             <div id="cv-entete" class ="text-center">
                 <div id="cv-photo">
-                    <img src="../image/photo-1.png" alt="Ma photo d'identité" class="rounded-circle" height="175" width="auto">
+                    <img src="../image/clementloze.png" alt="Ma photo d'identité" class="rounded-circle" height="175" width="auto">
                 </div>
                 <div id="cv-intro">
                     <h1>Curriculum Vitae de Clément LOZE : un développeur</h1>
