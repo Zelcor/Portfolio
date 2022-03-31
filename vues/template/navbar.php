@@ -1,6 +1,6 @@
         <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar"><span class="sr-only">Navigation raccourcie</span>☰ </button>
-            <a class="navbar-brand" href="#">Clément LOZE</a>
+            <a class="navbar-brand" href="<?php __DIR__?>/">Clément LOZE</a>
             <div id="navbar" class="flex-column navbar-collapse collapse">
                 <ul class = "nav navbar-nav">
                     <li class="nav-item <?php if($page===0) { ?>active <?php } ?>">
@@ -56,11 +56,6 @@
                     <li class="nav-item <?php if($page===3) { ?>active <?php } ?>">
                         <a href="../../pages/C_veille.php" class="nav-link">
                             <span class ="fa fa-gears"></span> Veille technologique
-                        </a>
-                    </li>
-                    <li class="nav-item <?php if($page===6) { ?>active <?php } ?>">
-                        <a href="../../pages/C_patrimoine.php" class="nav-link">
-                            <span class ="fa fa-laptop"></span> Gestion patrimoine
                         </a>
                     </li>
                     <li class="nav-item <?php if($page===4) { ?>active <?php } ?>">

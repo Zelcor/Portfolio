@@ -31,7 +31,7 @@
                                     </div>
                                     <div class="timeline-footer d-flex align-items-center flex-wrap">
                                         <i class="mdi mdi-heart-outline text-muted mr-1"></i>
-                                        <span><a href="https://www.cnil.fr/fr/la-cnil-propose-un-nouveau-bac-sable-pour-accompagner-linnovation-numerique-dans-le-domaine-de">Source</a></span>
+                                        <span><a href="https://www.cnil.fr/fr/la-cnil-propose-un-nouveau-bac-sable-pour-accompagner-linnovation-numerique-dans-le-domaine-de" target="_blank">Source</a></span>
                                         <span class="ml-md-auto font-weight-bold">Janvier 2022</span>
                                     </div>
                                 </div>
@@ -51,7 +51,7 @@
                                     </div>
                                     <div class="timeline-footer d-flex align-items-center flex-wrap">
                                         <i class="mdi mdi-heart-outline text-muted mr-1"></i>
-                                        <span><a href="https://www.techniques-ingenieur.fr/actualite/articles/la-fin-des-cables-pour-recharger-ses-appareils%E2%80%89-105381/">Source</a></span>
+                                        <span><a href="https://www.techniques-ingenieur.fr/actualite/articles/la-fin-des-cables-pour-recharger-ses-appareils%E2%80%89-105381/" target="_blank">Source</a></span>
                                         <span class="ml-md-auto font-weight-bold">Décembre 2021</span>
                                     </div>
                                 </div>
@@ -72,7 +72,7 @@
                                     </div>
                                     <div class="timeline-footer d-flex align-items-center flex-wrap">
                                         <i class="mdi mdi-heart-outline text-muted mr-1"></i>
-                                        <span><a href="https://www.techniques-ingenieur.fr/actualite/articles/cyberscore-des-codes-couleurs-pour-connaitre-le-niveau-de-securite-des-sites-105670/">Source</a></span>
+                                        <span><a href="https://www.techniques-ingenieur.fr/actualite/articles/cyberscore-des-codes-couleurs-pour-connaitre-le-niveau-de-securite-des-sites-105670/" target="_blank">Source</a></span>
                                         <span class="ml-md-auto font-weight-bold">Décembre 2021</span>
                                     </div>
                                 </div>
@@ -92,7 +92,7 @@
                                     </div>
                                     <div class="timeline-footer d-flex align-items-center flex-wrap">
                                         <i class="mdi mdi-heart-outline text-muted mr-1"></i>
-                                        <span><a href="https://web.developpez.com/actu/328821/Developpement-web-les-admins-pourront-bientot-restreindre-l-acces-au-code-source-d-une-page-web-via-un-navigateur-base-sur-Chromium-car-la-fonctionnalite-permet-a-des-etudiants-de-tricher/">Source</a></span>
+                                        <span><a href="https://web.developpez.com/actu/328821/Developpement-web-les-admins-pourront-bientot-restreindre-l-acces-au-code-source-d-une-page-web-via-un-navigateur-base-sur-Chromium-car-la-fonctionnalite-permet-a-des-etudiants-de-tricher/" target="_blank">Source</a></span>
                                         <span class="ml-md-auto font-weight-bold">Novembre 2021</span>
                                     </div>
                                 </div>
@@ -102,7 +102,7 @@
                                 <div class="timeline-badge"></div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
-                                        <h6 class="timeline-title" role="button" data-toggle="collapse" data-target="#resu-protec-droit-child" aria-controls="resu-protec-droit-child" aria-expanded="true"> Protection droits numériques des enfants</h6>
+                                        <h6 class="timeline-title" role="button" data-toggle="collapse" data-target="#resu-protec-droit-child" aria-controls="resu-protec-droit-child" aria-expanded="true" target="_blank"> Protection droits numériques des enfants</h6>
                                     </div>
                                     <div class="timeline-body collapse multi-collapse" id="resu-protec-droit-child">
                                         <p>Les mineurs étant de plus en plus tôt connectés en ligne (d’après une étude de
@@ -116,7 +116,7 @@
                                     </div>
                                     <div class="timeline-footer d-flex align-items-center flex-wrap">
                                         <i class="mdi mdi-heart-outline text-muted mr-1"></i>
-                                        <span><a href="https://www.cnil.fr/fr/la-protection-des-droits-numeriques-des-enfants-une-priorite-mondiale">Source</a></span>
+                                        <span><a href="https://www.cnil.fr/fr/la-protection-des-droits-numeriques-des-enfants-une-priorite-mondiale" target="_blank">Source</a></span>
                                         <span class="ml-md-auto font-weight-bold">Octobre 2021</span>
                                     </div>
                                 </div>
@@ -132,7 +132,7 @@
                                     </div>
                                     <div class="timeline-footer d-flex align-items-center flex-wrap">
                                         <i class="mdi mdi-heart-outline text-muted mr-1"></i>
-                                        <span><a href="https://www.kaspersky.fr/resource-center/definitions/cryptocurrency-scams">Source</a></span>
+                                        <span><a href="https://www.kaspersky.fr/resource-center/definitions/cryptocurrency-scams" target="_blank">Source</a></span>
                                         <span class="ml-md-auto font-weight-bold">Octobre 2021</span>
                                     </div>
                                 </div>
@@ -162,7 +162,7 @@
                                     </div>
                                     <div class="timeline-footer d-flex align-items-center flex-wrap">
                                         <i class="mdi mdi-heart-outline text-muted mr-1"></i>
-                                        <span><a href="https://www.frandroid.com/marques/nvidia/909641_dlss-sur-unity-nvidia-prend-un-peu-plus-davance-avec-ladoption-du-moteur-tres-populaire">Source</a></span>
+                                        <span><a href="https://www.frandroid.com/marques/nvidia/909641_dlss-sur-unity-nvidia-prend-un-peu-plus-davance-avec-ladoption-du-moteur-tres-populaire" target="_blank">Source</a></span>
                                         <span class="ml-md-auto font-weight-bold">Septembre 2021</span>
                                     </div>
                                 </div>
