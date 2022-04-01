@@ -6,7 +6,7 @@
                     <img src="../image/clementloze.png" alt="Ma photo d'identité" class="rounded-circle" height="175" width="auto">
                 </div>
                 <div id="cv-intro">
-                    <h1>Curriculum Vitae de Clément LOZE : un développeur</h1>
+                    <h1>Curriculum Vitae de Clément LOZE : un futur développeur</h1>
                 </div>
             </div>
             <div class="col-xs-12 col-sm-7">
