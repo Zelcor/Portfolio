@@ -34,8 +34,8 @@
                             <li role="presentation" class="dropdown-item">
                                 <a role="menuitem" href="../../pages/C_Projet_1_GSB.php"> Projet 1 : GSB </a>
                             </li>
-                            <li role="presentation" class="dropdown-item disabled">
-                                <a role="menuitem" href="../../pages/C_Projet_.php"> Projet 2 : MDL </a>
+                            <li role="presentation" class="dropdown-item">
+                                <a role="menuitem" href="../../pages/C_Projet_2_MDL.php"> Projet 2 : MDL </a>
                             </li>
                             <li role="presentation" class="dropdown-divider"></li>
                             <li role="presentation" class="dropdown-header dropdown-item disabled">

@@ -15,7 +15,7 @@
                     Une <strong>gestion</strong> unique de ces <strong>frais</strong> et le <strong>remboursement</strong> pour l'ensemble des visites est souhaitée.
                 </p>
                 <div class="text-left">
-                    <h3 class="jumbotron-heading text-left colapse multi-collapse" data-toggle="collapse" data-target="#generation_pdf" aria-controls="generation_pdf" aria-expanded="true">Tâche 1 : Génération d'un pdf</h3>
+                    <h3 class="jumbotron-heading text-left colapse multi-collapse" data-toggle="collapse" data-target="#generation_pdf" aria-controls="generation_pdf" aria-expanded="true"><a href="#" style="text-decoration: none" class="text-dark">Tâche 1 : Génération d'un pdf</a></h3>
                     <hr>
                     <div class="collapse multi-collapse mb-4 show" id="generation_pdf">
                         <div class="lead text-justify">
@@ -44,7 +44,7 @@
                             </div>
                         </div>
                     </div>
-                    <h3 class="jumbotron-heading text-left colapse multi-collapse" data-toggle="collapse" data-target="#eco_dans_appli" aria-controls="eco_dans_appli" aria-expanded="true">Tâche 2 : Davantage d'écologie et renforcement de la sécurité lors de la génération du pdf</h3>
+                    <h3 class="jumbotron-heading text-left colapse multi-collapse" data-toggle="collapse" data-target="#eco_dans_appli" aria-controls="eco_dans_appli" aria-expanded="true"><a href="#" style="text-decoration: none" class="text-dark">Tâche 2 : Davantage d'écologie et renforcement de la sécurité lors de la génération du pdf</a></h3>
                     <hr>
                     <div class="collapse multi-collapse show" id="eco_dans_appli">
                         <div class="lead text-justify">
@@ -78,7 +78,7 @@
                             </div>
                         </div>
                     </div>
-                    <h3 class="jumbotron-heading text-left colapse multi-collapse" data-toggle="collapse" data-target="#doc_technique_pdf" aria-controls="doc_technique_pdf" aria-expanded="true">Tâche 3 : Documentation utilisateur</h3>
+                    <h3 class="jumbotron-heading text-left colapse multi-collapse" data-toggle="collapse" data-target="#doc_technique_pdf" aria-controls="doc_technique_pdf" aria-expanded="true"><a href="#" style="text-decoration: none" class="text-dark">Tâche 3 : Documentation utilisateur</a></h3>
                     <hr>
                     <div class="collapse multi-collapse show" id="doc_technique_pdf">
                         <div class="lead text-justify">
@@ -110,7 +110,7 @@
                 <br>
                 <div class="d-flex justify-content-between">
                     <a role="button" class="btn btn-primary" href="../pages/C_ptitmvc.php">↢ TP : MonPetitMVC</a>
-                    <a role="button" class="btn btn-primary" href="#">Projet 2 : MDL (bientôt) ↣</a>
+                    <a role="button" class="btn btn-primary" href="../pages/C_Projet_2_MDL.php">Projet 2 : MDL (en cours) ↣</a>
                 </div>
             </div>
         </section>

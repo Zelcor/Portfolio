@@ -17,8 +17,8 @@
                     <div class="card bg-light mb-4 shadow">
                         <h5 class="card-header text-center">Preuve autoformation open-classroom</h5>
                         <div class="card-body colapse multi-collapse hide text-center lead" data-toggle="collapse" data-target="#auto-formation" aria-controls="auto-formation" aria-expanded="true">
-                                👇cliquez sur l'image👇
-                                <img class="card-img-top" src="../image/openclassroom_autoformation_dirisi.jpg" alt="autoformation_dirisi">
+                                <a href="#" style="text-decoration: none" class="text-dark">👇cliquez sur l'image👇
+                                <img class="card-img-top" src="../image/openclassroom_autoformation_dirisi.jpg" alt="autoformation_dirisi"></a>
                         </div>
                     </div>
                 </div>
@@ -64,7 +64,7 @@
                 </div>
                 <br>
                 <div class="d-flex justify-content-between">
-                    <a role="button" class="btn btn-primary" href="#">↢ Projet 2 : MDL (bientôt)</a>
+                    <a role="button" class="btn btn-primary" href="../pages/C_Projet_2_MDL.php">↢ Projet 2 : MDL (en cours)</a>
                     <a role="button" class="btn btn-primary" href="../pages/C_stage_2nde_annee.php">Stage 2<sup>nde</sup> année ↣</a>
                 </div>
             </div>
