@@ -7,10 +7,10 @@
                 <p class="lead">
                     Les technologies utilisées lors de ce projet furent : <strong>PHP 7</strong>, <strong>IDE NetBeans</strong>, <strong>MySQL</strong>
                 </p>
-                <div class="row">
+                <div class="row d-flex justify-content-around">
                     <div class="col-4">
-                        <h3 class="jumbotron-heading">L'équipe du projet : </h3>
-                        <p class="lead text-justify">
+                        <h3 class="jumbotron-heading text-justify">L'équipe du projet : </h3>
+                        <p class="lead text-justify ml-4">
                             - <a href="https://www.florentdiabi.fr/">Florent DIABI</a><br>
                             - <a href="https://ilanwanounou.fr/">Ilan WANOUNOU</a><br>
                             - <a href="https://angelotremoureux.fr" target="_blank">Angelo TREMOUREUX</a><br>
@@ -18,8 +18,8 @@
                         </p>
                     </div>
                     <div class="col-4">
-                        <h3 class="jumbotron-heading">Configuration pour ce projet : </h3>
-                        <p class="lead text-justify">
+                        <h3 class="jumbotron-heading text-justify">Configuration pour ce projet : </h3>
+                        <p class="lead text-justify ml-4">
                             - <a class="text-primary">IDE</a> : Netbeans<br>
                             - <a class="text-primary">Versionning</a> : Github et Gitkraken<br>
                             - <a class="text-primary">SGBD</a> : MySql<br>
