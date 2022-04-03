@@ -7,6 +7,27 @@
                 <p class="lead">
                     Les technologies utilisées lors de ce projet furent : <strong>PHP 7</strong>, <strong>IDE NetBeans</strong>, <strong>MySQL</strong>
                 </p>
+                <div class="row">
+                    <div class="col-4">
+                        <h3 class="jumbotron-heading">L'équipe du projet : </h3>
+                        <p class="lead text-justify">
+                            - <a href="https://www.florentdiabi.fr/">Florent DIABI</a><br>
+                            - <a href="https://ilanwanounou.fr/">Ilan WANOUNOU</a><br>
+                            - <a href="https://angelotremoureux.fr" target="_blank">Angelo TREMOUREUX</a><br>
+                            - Clément LOZE (moi)
+                        </p>
+                    </div>
+                    <div class="col-4">
+                        <h3 class="jumbotron-heading">Configuration pour ce projet : </h3>
+                        <p class="lead text-justify">
+                            - <a class="text-primary">IDE</a> : Netbeans<br>
+                            - <a class="text-primary">Versionning</a> : Github et Gitkraken<br>
+                            - <a class="text-primary">SGBD</a> : MySql<br>
+                            - <a class="text-primary">PHP</a> : 7.4<br>
+                            - <a class="text-primary">Outil de gestion de projet</a> : Trello
+                        </p>
+                    </div>
+                </div>
                 <h2 class="jumbotron-heading">Contexte du projet : </h2>
                 <p class="lead text-justify">
                     Le laboratoire Galaxy Swiss Bourdin (GSB) est issu de la fusion entre le géant américain <strong>Galaxy</strong> (spécialisé dans le secteur des maladies virales dont le SIDA et les hépatites) et le conglomérat européen

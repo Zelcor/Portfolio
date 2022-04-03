@@ -43,6 +43,7 @@
                         </div>
                     </div>
                 </div>
+                <a href="https://github.com/Zelcor/MonPetitMVC" target="_blank"><h5>Lien vers mon depot github pour ce projet</h5></a>
                 <div class="d-flex justify-content-between">
                     <a role="button" class="btn btn-primary" href="../pages/C_choco.php">↢ TP : Chocolate'in</a>
                     <a role="button" class="btn btn-primary" href="../pages/C_Projet_1_GSB.php">Projet 1 : GSB ↣</a>
