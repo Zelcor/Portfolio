@@ -21,10 +21,10 @@
                         <h3 class="jumbotron-heading text-justify">Configuration pour ce projet : </h3>
                         <p class="lead text-justify ml-4">
                             - <a class="text-primary">IDE</a> : Netbeans<br>
-                            - <a class="text-primary">Versionning</a> : Github et Gitkraken<br>
+                            - <a class="text-primary" href="https://github.com/Zelcor/GSB_AppliMVC" target="_blank">Versionning</a> : <a href="https://github.com/Zelcor/GSB_AppliMVC" target="_blank">Github</a> et <a href="../image/gitkraken_gsb_preuve.png" target="_blank">Gitkraken</a><br>
                             - <a class="text-primary">SGBD</a> : MySql<br>
                             - <a class="text-primary">PHP</a> : 7.4<br>
-                            - <a class="text-primary">Outil de gestion de projet</a> : Trello
+                            - <a class="text-primary" href="https://trello.com/b/OySFvg2M/projet-0-touudouuum" target="_blank">Outil de gestion de projet</a> : <a href="https://trello.com/b/OySFvg2M/projet-0-touudouuum" target="_blank">Trello</a>
                         </p>
                     </div>
                 </div>

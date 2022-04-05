@@ -7,6 +7,26 @@
                 <p class="lead text-center">
                     Les technologies utilisées lors de ce stage furent : <strong>Angular</strong>, <strong>node.js</strong>, <strong>PostgreSQL</strong>
                 </p>
+                <div class="row d-flex justify-content-around">
+                    <div class="col-4">
+                        <h3 class="jumbotron-heading text-justify">L'équipe du projet : </h3>
+                        <p class="lead text-justify ml-4">
+                            - Les développeurs la DIRISI <br>
+                            - <a href="https://ilanwanounou.fr/">Ilan WANOUNOU</a><br>
+                            - Clément LOZE (moi)
+                        </p>
+                    </div>
+                    <div class="col-4">
+                        <h3 class="jumbotron-heading text-justify">Configuration pour ce projet : </h3>
+                        <p class="lead text-justify ml-4">
+                            - <a class="text-primary">IDE</a> : Webstorm<br>
+                            - <a class="text-primary">Versionning</a> : Gitlab et Gitkraken<br>
+                            - <a class="text-primary">SGBD</a> : PostgreSQL<br>
+                            - <a class="text-primary">Angular</a> : 11.2<br>
+                            - <a class="text-primary">Node.JS</a> : 14
+                        </p>
+                    </div>
+                </div>
                 <h3 class="jumbotron-heading">Présentation de ce stage :</h3>
                 <hr>
                 <p class="lead">

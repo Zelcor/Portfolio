@@ -8,6 +8,27 @@
                 <p class="lead">
                     Les technologies utilisées lors de ce projet furent : <strong>Symfony 4.4</strong>, <strong>IDE NetBeans</strong>, <strong>MySQL</strong>
                 </p>
+                <div class="row d-flex justify-content-around">
+                    <div class="col-4">
+                        <h3 class="jumbotron-heading text-justify">L'équipe du projet : </h3>
+                        <p class="lead text-justify ml-4">
+                            - <a href="https://www.florentdiabi.fr/">Florent DIABI</a><br>
+                            - <a href="https://ilanwanounou.fr/">Ilan WANOUNOU</a><br>
+                            - <a href="https://angelotremoureux.fr" target="_blank">Angelo TREMOUREUX</a><br>
+                            - Clément LOZE (moi)
+                        </p>
+                    </div>
+                    <div class="col-4">
+                        <h3 class="jumbotron-heading text-justify">Configuration pour ce projet : </h3>
+                        <p class="lead text-justify ml-4">
+                            - <a class="text-primary">IDE</a> : Netbeans<br>
+                            - <a class="text-primary">Versionning</a> : <a href="https://github.com/AngeloTremoureux/MDL" target="_blank">Github</a> et <a href="../image/gitkraken_mdl_preuve.png" target="_blank">Gitkraken</a><br>
+                            - <a class="text-primary">SGBD</a> : MySql<br>
+                            - <a class="text-primary">Symfony</a> : 4.4<br>
+                            - <a class="text-primary" href="https://trello.com/b/rHtwD8Vl/mdl" target="_blank">Outil de gestion de projet</a> : <a href="https://trello.com/b/rHtwD8Vl/mdl" target="_blank">Trello</a>
+                        </p>
+                    </div>
+                </div>
                 <h2 class="jumbotron-heading">Contexte du projet : </h2>
                 <p class="lead text-justify">
                     Le service informatique de la Maison des Ligues de Lorraine a été sollicité par la ligue d'Escrime pour <strong>prototyper</strong>,

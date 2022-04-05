@@ -3,6 +3,22 @@
         <section class="jumbotron text-center center shadow">
             <div class="container">
                 <h1 class="jumbotron-heading">Passage de ce portfolio en php</h1>
+                <div class="row d-flex justify-content-around">
+                    <div class="col-4">
+                        <h3 class="jumbotron-heading text-justify">L'équipe du projet : </h3>
+                        <p class="lead text-justify ml-4">
+                            - Clément LOZE (moi)
+                        </p>
+                    </div>
+                    <div class="col-4">
+                        <h3 class="jumbotron-heading text-justify">Configuration pour ce projet : </h3>
+                        <p class="lead text-justify ml-4">
+                            - <a class="text-primary">IDE</a> : PhPStorm (et parfois Netbeans)<br>
+                            - <a class="text-primary">PHP</a> : 7.4<br>
+                            - <a class="text-primary" target="_blank" href="https://github.com/Zelcor/Portfolio">Versionning</a> : <a href="https://github.com/Zelcor/Portfolio" target="_blank">Github</a> et Gitkraken<br>
+                        </p>
+                    </div>
+                </div>
                 <p class="lead text-muted">
                     J'ai effectué le passage de mon portfolio pendant les vacances de la toussaint après avoir abordé le php et l'architecture
                     mvc en classe.
@@ -40,7 +56,6 @@
                     </div>
                 </div>
             </div>
-            <a href="https://github.com/Zelcor/Portfolio"><h5>Lien vers mon depot github pour ce projet</h5></a>
             <div class="d-flex justify-content-between">
                 <a role="button" class="btn btn-primary" href="../pages/C_stage_2nde_annee.php">↢ Stage 2nde année</a>
             </div>
