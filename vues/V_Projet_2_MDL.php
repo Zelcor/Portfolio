@@ -5,9 +5,6 @@
                 <h1 class="jumbotron-heading "><u>Projet 2 : Maison Des Ligues</u></h1>
                 <img class="image-responsive" src="../image/logo_mdl.png" alt="logo MDL">
                 <img class="image-responsive" src="../image/assises_escrime_logo.png" alt="logo MDL">
-                <p class="lead">
-                    Les technologies utilisées lors de ce projet furent : <strong>Symfony 4.4</strong>, <strong>IDE NetBeans</strong>, <strong>MySQL</strong>
-                </p>
                 <div class="row d-flex justify-content-around">
                     <div class="col-4">
                         <h3 class="jumbotron-heading text-justify">L'équipe du projet : </h3>

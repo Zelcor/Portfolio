@@ -14,7 +14,7 @@
                         <h3 class="jumbotron-heading text-justify">Configuration pour ce projet : </h3>
                         <p class="lead text-justify ml-4">
                             - <a class="text-primary">IDE</a> : Netbeans et parfois PhpStorm<br>
-                            - <a class="text-primary" href="https://github.com/Zelcor/MonPetitMVC" target="_blank">Versionning</a> : <a href="https://github.com/Zelcor/MonPetitMVC" target="_blank">Github</a> et <a href="../image/gitkraken_monpetitmvc_preuve.png">Gitkraken</a><br>
+                            - <a class="text-primary" href="https://github.com/Zelcor/MonPetitMVC" target="_blank">Versionning</a> : <a href="https://github.com/Zelcor/MonPetitMVC" target="_blank">Github</a> et <a href="../image/gitkraken_monpetitmvc_preuve.png" target="_blank">Gitkraken</a><br>
                             - <a class="text-primary">SGBD</a> : MySql<br>
                             - <a class="text-primary">PHP</a> : 7.4<br>
                             - <a class="text-primary">Twig</a> : 3.3
@@ -61,7 +61,6 @@
                     </div>
                 </div>
             </div>
-            <a href="https://github.com/Zelcor/MonPetitMVC" target="_blank"><h5>Lien vers mon depot github pour ce projet</h5></a>
             <div class="d-flex justify-content-between">
                 <a role="button" class="btn btn-primary" href="../pages/C_choco.php">↢ TP : Chocolate'in</a>
                 <a role="button" class="btn btn-primary" href="../pages/C_Projet_1_GSB.php">Projet 1 : GSB ↣</a>
