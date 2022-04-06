@@ -58,6 +58,7 @@
             </div>
             <div class="d-flex justify-content-between">
                 <a role="button" class="btn btn-primary" href="../pages/C_stage_2nde_annee.php">↢ Stage 2nde année</a>
+                <a role="button" class="btn btn-danger" href="../pages/C_fin_presentation.php">Fin de la présentation !</a>
             </div>
         </section>
     </div>
