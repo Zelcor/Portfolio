@@ -217,9 +217,11 @@
                     </div>
                 </div>
                 <!-- Fin timeline -->
-            <h2 class="jumbotron-heading text-center">Comment se passe ma veille ?</h2>
-            <p class="lead text-muted text-center">Après avoir utiliser Netvibes.com, j'utilise maintenant feedly pour son application mobile pour ma veille principale, de plus j’utilise google alert afin d’avoir des informations sur les données concernant mon nom et prénom. </p>
-            <a role="button" class="btn btn-primary mb-2 p-2" href="../image/documents/veille%20technologique.pdf">Mon flux de veille</a>
+            <div class="text-center center">
+                <h2 class="jumbotron-heading text-center">Comment se passe ma veille ?</h2>
+                <p class="lead text-muted text-center">Après avoir utiliser Netvibes.com, j'utilise maintenant feedly pour son application mobile pour ma veille principale, de plus j’utilise google alert afin d’avoir des informations sur les données concernant mon nom et prénom. </p>
+                <a role="button" class="btn btn-primary mb-2 p-2" href="https://feedly.com/i/saved" target="_blank">Mon flux de veille</a>
+            </div>
         </section>
     </div>
 </div>
